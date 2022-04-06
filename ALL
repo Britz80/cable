@@ -1,8 +1,6 @@
  #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 360p
-https://wowly.stream/hls/stream_low/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 720p
 https://wowly.stream/hls/stream_src/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",CGTN Esp
