@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",MX | Azteca 7
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=134
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",MX | Azteca Uno
