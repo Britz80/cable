@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",:: SR. REGIO ::
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-id="ext" group-title="Channels",http://paypal.me/SrRegio
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-id="ext" group-title="Channels",@RegioPlay.Oficial
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-id="ext" group-title="Channels",@SrRegio
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-id="ext" group-title="Channels",t.me/SrRegioGrupo
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-id="ext" group-title="Channels",:: REGIO CHANNEL :: (EVENTOS ESPECIALES)
-http://regioplay.xyz/php/SR_REGIO_223022_/th.php?channel=srregio&f.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 360p
 https://wowly.stream/hls/stream_low/index.m3u8
