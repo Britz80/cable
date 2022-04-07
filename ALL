@@ -31,7 +31,7 @@ https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=el-conflicto-tv&f=.
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Chiquilines
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=chiquilines&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Juntos
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=juntos&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=juntos&f=.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Sureno
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=cine-sureno&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Real
