@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",:: SR. REGIO ::
 http://regioplay.xyz/sr_regioooooo.php
 #EXTINF:0 tvg-id="ext" group-title="Channels",http://paypal.me/SrRegio
@@ -32,7 +31,7 @@ https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=el-conflicto-tv&f=.
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Chiquilines
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=chiquilines&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Juntos
-https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=juntos&f=.m3u8 
+https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=juntos&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Sureno
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=cine-sureno&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Real
@@ -679,4 +678,3 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=293
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=313
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",LA LIGA TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=314
-
