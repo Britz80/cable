@@ -31,7 +31,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=4
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=5
 #EXTINF:0 tvg-id="AMC.mx" group-title="Lista TV" user-agent="suplayer",AMC
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=6
-#EXTINF:0 tvg-id="Antena3.mx" group-title="Lista TV" user-agent="suplayer",Antena 3 Internacional
+#EXTINF:0 tvg-id="Antena3.mx" group-title="Lista TV" user-agent="suplayer",Antena 3 Internacional 
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=7
 #EXTINF:0 tvg-id="BBCNews.nws" group-title="Lista TV" user-agent="suplayer",BBC World
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=8
