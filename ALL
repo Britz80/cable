@@ -31,7 +31,7 @@ https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=casa-comedy&f=.m3u8
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=spanglish&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Euronews N
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=euronews-spa&f=.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",Horrorfy
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Horrorfy 
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=horrorfy&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",WappTV
 https://regioplay.xyz/php/SR_REGIO_223022_/distroregio.php?c=wapptv&f=.m3u8
