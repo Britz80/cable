@@ -31,7 +31,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=149
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",MX | Multimedios
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=150
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",MX | Televisa MTY
-http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=151
+http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=151 
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",MX | Garage TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=152
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",MX | Congreso de la Unión
