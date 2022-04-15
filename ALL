@@ -59,7 +59,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/multimedios.php?f=.m3u8
 https://regioplay.xyz/php/SR_REGIO_223022_/wowtv.php
 #EXTINF:0 tvg-id="NETtv.svn" group-title="Lista TV",NET TV
 http://regioplay.xyz/php/SR_REGIO_223022_/nettv.php?f=.m3u8
-#EXTINF:0 tvg-id="RTespanol.nws" group-title="Lista TV",RT ESPANOL
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="Lista TV",RT ESPANOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista TV",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -83,23 +83,23 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:0 tvg-id="AyE.mx" group-title="Lista TV" user-agent="suplayer",A&E
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=1
-#EXTINF:0 tvg-id="AXN.mx" group-title="Lista TV" user-agent="suplayer",AXN
+#EXTINF:0 tvg-id="AXN.bg" group-title="Lista TV" user-agent="suplayer",AXN
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=2
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista TV" user-agent="suplayer",Animal Planet
+#EXTINF:0 tvg-id="animal_rus" group-title="Lista TV" user-agent="suplayer",Animal Planet
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=3
-#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista TV" user-agent="suplayer",Az Corazon
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Lista TV" user-agent="suplayer",Az Corazon
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=4
-#EXTINF:0 tvg-id="AzMundo.mx" group-title="Lista TV" user-agent="suplayer",Az Mundo
+#EXTINF:0 tvg-id="AZMundo.cl" group-title="Lista TV" user-agent="suplayer",Az Mundo
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=5
-#EXTINF:0 tvg-id="AMC.mx" group-title="Lista TV" user-agent="suplayer",AMC
+#EXTINF:0 tvg-id="mgm-int" group-title="Lista TV" user-agent="suplayer",AMC
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=6
 #EXTINF:0 tvg-id="Antena3.mx" group-title="Lista TV" user-agent="suplayer",Antena 3 Internacional
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=7
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="Lista TV" user-agent="suplayer",BBC World
+#EXTINF:0 tvg-id="bbc-world" group-title="Lista TV" user-agent="suplayer",BBC World
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=8
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Lista TV" user-agent="suplayer",Baby TV
+#EXTINF:0 tvg-id="baby-tv" group-title="Lista TV" user-agent="suplayer",Baby TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=9
-#EXTINF:0 tvg-id="Bloomberg.mx" group-title="Lista TV" user-agent="suplayer",Bloomberg
+#EXTINF:0 tvg-id="bloomberg" group-title="Lista TV" user-agent="suplayer",Bloomberg
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=10
 #EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Lista TV" user-agent="suplayer",CNN Espanol
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=11
@@ -113,7 +113,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=14
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=16
 #EXTINF:0 tvg-id="CaracolTV.us" group-title="Lista TV" user-agent="suplayer",Caracol Internacional
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=17
-#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista TV" user-agent="suplayer",Cartoon Network
+#EXTINF:0 tvg-id="cartoon" group-title="Lista TV" user-agent="suplayer",Cartoon Network
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=18
 #EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista TV" user-agent="suplayer",Cine Canal
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=19
@@ -133,37 +133,37 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=26
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=27
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Claro Sports Latinoamerica
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=28
-#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista TV" user-agent="suplayer",Comedy Central
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Lista TV" user-agent="suplayer",Comedy Central
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=29
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",DHE
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=31
 #EXTINF:0 tvg-id="DW.al" group-title="Lista TV" user-agent="suplayer",DW
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=32
-#EXTINF:0 tvg-id="ConcertChannel.mx" group-title="Lista TV" user-agent="suplayer",Concert Channel
+#EXTINF:0 tvg-id="Iconcerts.fr" group-title="Lista TV" user-agent="suplayer",Concert Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=30
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",DW America
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=33
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",De Pelicula Plus
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=34
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista TV" user-agent="suplayer",Discovery Channel
+#EXTINF:0 tvg-id="discov_rus" group-title="Lista TV" user-agent="suplayer",Discovery Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=36
 #EXTINF:0 tvg-id="HomeHealth.mx" group-title="Lista TV" user-agent="suplayer",Discovery Home and Health
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=37
 #EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista TV" user-agent="suplayer",Discovery Kids
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=38
-#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista TV" user-agent="suplayer",Discovery Science
+#EXTINF:0 tvg-id="discov_sci" group-title="Lista TV" user-agent="suplayer",Discovery Science
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=39
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista TV" user-agent="suplayer",Discovery Turbo
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Lista TV" user-agent="suplayer",Discovery Turbo
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=41
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista TV" user-agent="suplayer",Discovery World
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Lista TV" user-agent="suplayer",Discovery World
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=42
 #EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista TV" user-agent="suplayer",Discovery Theater
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=40
-#EXTINF:0 tvg-id="Disney.uk" group-title="Lista TV" user-agent="suplayer",Disney
+#EXTINF:0 tvg-id="disney" group-title="Lista TV" user-agent="suplayer",Disney
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=43
-#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista TV" user-agent="suplayer",Disney JR
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Lista TV" user-agent="suplayer",Disney JR
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=44
-#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista TV" user-agent="suplayer",Disney XD
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Lista TV" user-agent="suplayer",Disney XD
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=45
 #EXTINF:0 tvg-id="E.ar" group-title="Lista TV" user-agent="suplayer",E !
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=46
@@ -171,27 +171,27 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=46
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=47
 #EXTINF:0 tvg-id="Maschic.mx" group-title="Lista TV" user-agent="suplayer",Mas Chic
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=48
-#EXTINF:0 tvg-id="MTVHits.eu" group-title="Lista TV" user-agent="suplayer",MTV Hits
+#EXTINF:0 tvg-id="mtv-hits" group-title="Lista TV" user-agent="suplayer",MTV Hits
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=49
-#EXTINF:0 tvg-id="MTV.mx" group-title="Lista TV" user-agent="suplayer",MTV
+#EXTINF:0 tvg-id="mtv-rus" group-title="Lista TV" user-agent="suplayer",MTV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=50
-#EXTINF:0 tvg-id="Lifetime.mx" group-title="Lista TV" user-agent="suplayer",Lifetime
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Lista TV" user-agent="suplayer",Lifetime
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=51
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista TV" user-agent="suplayer",Investigation Discovery
+#EXTINF:0 tvg-id="id-extra" group-title="Lista TV" user-agent="suplayer",Investigation Discovery
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=52
 #EXTINF:0 tvg-id="ISat.mx" group-title="Lista TV" user-agent="suplayer",I.Sat
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=53
 #EXTINF:0 tvg-id="HolaTV.us" group-title="Lista TV" user-agent="suplayer",Hola TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=54
-#EXTINF:0 tvg-id="H2.mx" group-title="Lista TV" user-agent="suplayer",H2
+#EXTINF:0 tvg-id="history2-rus" group-title="Lista TV" user-agent="suplayer",H2
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=55
-#EXTINF:0 tvg-id="History.mx" group-title="Lista TV" user-agent="suplayer",History Channel
+#EXTINF:0 tvg-id="history-rus" group-title="Lista TV" user-agent="suplayer",History Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=56
 #EXTINF:0 tvg-id="HTV.mx" group-title="Lista TV" user-agent="suplayer",HTV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=57
 #EXTINF:0 tvg-id="HLN.us" group-title="Lista TV" user-agent="suplayer",HLN
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=58
-#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Lista TV" user-agent="suplayer",HBO plus
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Lista TV" user-agent="suplayer",HBO plus
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=59
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",HBO Subtitulado
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=60
@@ -199,11 +199,11 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=60
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=61
 #EXTINF:0 tvg-id="Hbofamily.br" group-title="Lista TV" user-agent="suplayer",HBO Family
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=62
-#EXTINF:0 tvg-id="HBO2.mx" group-title="Lista TV" user-agent="suplayer",HBO 2
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Lista TV" user-agent="suplayer",HBO 2
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=63
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="Lista TV" user-agent="suplayer",HBO
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Lista TV" user-agent="suplayer",HBO
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=64
-#EXTINF:0 tvg-id="GolfChannel.mx" group-title="Lista TV" user-agent="suplayer",Golf Channel
+#EXTINF:0 tvg-id="Golf.fr" group-title="Lista TV" user-agent="suplayer",Golf Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=65
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Golden Premium
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=66
@@ -213,7 +213,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=67
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=68
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Fx Movie Mex
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=69
-#EXTINF:0 tvg-id="France24.fr" group-title="Lista TV" user-agent="suplayer",France 24
+#EXTINF:0 tvg-id="france24" group-title="Lista TV" user-agent="suplayer",France 24
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=71
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Fox Sports 3 Sur
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=72
@@ -229,31 +229,31 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=77
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=78
 #EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="Lista TV" user-agent="suplayer",Fox Premium Series
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=79
-#EXTINF:0 tvg-id="FoxNews.mx" group-title="Lista TV" user-agent="suplayer",Fox News
+#EXTINF:0 tvg-id="FoxNews.it" group-title="Lista TV" user-agent="suplayer",Fox News
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=80
 #EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="Lista TV" user-agent="suplayer",Fox Premium Movies
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=81
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Fox Life Mex
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=82
-#EXTINF:0 tvg-id="FoxLife.mx" group-title="Lista TV" user-agent="suplayer",Fox Life
+#EXTINF:0 tvg-id="fox-life" group-title="Lista TV" user-agent="suplayer",Fox Life
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=83
 #EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="Lista TV" user-agent="suplayer",Fox Premium Family
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=84
 #EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="Lista TV" user-agent="suplayer",Fox Premium Comedy
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=85
-#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Lista TV" user-agent="suplayer",Fox Premium Classics
+#EXTINF:0 tvg-id="FoxPremiumClassics.ar" group-title="Lista TV" user-agent="suplayer",Fox Premium Classics
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=86
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Fox Cinema Subtitulado
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=87
-#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Lista TV" user-agent="suplayer",Fox Premium Cinema
+#EXTINF:0 tvg-id="FoxPremiumCinema.ar" group-title="Lista TV" user-agent="suplayer",Fox Premium Cinema
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=88
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Fox Premium Action MX
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=89
 #EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="Lista TV" user-agent="suplayer",Fox Premium Action
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=90
-#EXTINF:0 tvg-id="Fox.mx" group-title="Lista TV" user-agent="suplayer",Fox
+#EXTINF:0 tvg-id="fox-crime" group-title="Lista TV" user-agent="suplayer",Fox
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=91
-#EXTINF:0 tvg-id="FX.mx" group-title="Lista TV" user-agent="suplayer",FX
+#EXTINF:0 tvg-id="FX.uk" group-title="Lista TV" user-agent="suplayer",FX
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=92
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Euro Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=93
@@ -269,19 +269,19 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=97
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=98
 #EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Lista TV" user-agent="suplayer",Warner Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=99
-#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Lista TV" user-agent="suplayer",Vh1 Classic
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Lista TV" user-agent="suplayer",Vh1 Classic
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=100
-#EXTINF:0 tvg-id="VH1.mx" group-title="Lista TV" user-agent="suplayer",Vh1
+#EXTINF:0 tvg-id="vh1-europe" group-title="Lista TV" user-agent="suplayer",Vh1
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=101
 #EXTINF:0 tvg-id="UnivisionEast.us" group-title="Lista TV" user-agent="suplayer",Univision
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=102
-#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="Lista TV" user-agent="suplayer",Universal Channel
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista TV" user-agent="suplayer",Universal Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=103
 #EXTINF:0 tvg-id="Unicable.mx" group-title="Lista TV" user-agent="suplayer",Unicable
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=104
 #EXTINF:0 tvg-id="TruTV.uk" group-title="Lista TV" user-agent="suplayer",Tru TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=105
-#EXTINF:0 tvg-id="TVE.mx" group-title="Lista TV" user-agent="suplayer",Tve
+#EXTINF:0 tvg-id="TVE.se" group-title="Lista TV" user-agent="suplayer",Tve
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=106
 #EXTINF:0 tvg-id="Tooncast.mx" group-title="Lista TV" user-agent="suplayer",Tooncast
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=107
@@ -289,35 +289,35 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=107
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=108
 #EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista TV" user-agent="suplayer",TNT Series
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=109
-#EXTINF:0 tvg-id="TNT.mx" group-title="Lista TV" user-agent="suplayer",TNT
+#EXTINF:0 tvg-id="tnt" group-title="Lista TV" user-agent="suplayer",TNT
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=110
-#EXTINF:0 tvg-id="TLC.mx" group-title="Lista TV" user-agent="suplayer",TLC
+#EXTINF:0 tvg-id="tlc-russia" group-title="Lista TV" user-agent="suplayer",TLC
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=111
-#EXTINF:0 tvg-id="TCM.mx" group-title="Lista TV" user-agent="suplayer",TCM
+#EXTINF:0 tvg-id="TCM.uk" group-title="Lista TV" user-agent="suplayer",TCM
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=112
-#EXTINF:0 tvg-id="TBS.mx" group-title="Lista TV" user-agent="suplayer",TBS
+#EXTINF:0 tvg-id="24dok" group-title="Lista TV" user-agent="suplayer",TBS
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=113
 #EXTINF:0 tvg-id="SundanceChannel.pl" group-title="Lista TV" user-agent="suplayer",Sundance Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=114
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista TV" user-agent="suplayer",Studio Universal
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Lista TV" user-agent="suplayer",Studio Universal
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=115
-#EXTINF:0 tvg-id="Space.mx" group-title="Lista TV" user-agent="suplayer",Space
+#EXTINF:0 tvg-id="Space.br" group-title="Lista TV" user-agent="suplayer",Space
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=116
-#EXTINF:0 tvg-id="Sony.mx" group-title="Lista TV" user-agent="suplayer",Sony
+#EXTINF:0 tvg-id="set" group-title="Lista TV" user-agent="suplayer",Sony
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=117
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",RCN Telenovelas
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=118
 #EXTINF:0 tvg-id="Pasiones.us" group-title="Lista TV" user-agent="suplayer",Pasiones
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=119
-#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Lista TV" user-agent="suplayer",Paramount Channel
+#EXTINF:0 tvg-id="paramount" group-title="Lista TV" user-agent="suplayer",Paramount Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=120
-#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Lista TV" user-agent="suplayer",Nickelodeon
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Lista TV" user-agent="suplayer",Nickelodeon
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=121
-#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista TV" user-agent="suplayer",Nick Jr
+#EXTINF:0 tvg-id="nick-jr" group-title="Lista TV" user-agent="suplayer",Nick Jr
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=122
 #EXTINF:0 tvg-id="Nick2.ar" group-title="Lista TV" user-agent="suplayer",Nick 2
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=123
-#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista TV" user-agent="suplayer",Nat Geo Wild
+#EXTINF:0 tvg-id="natgeowild" group-title="Lista TV" user-agent="suplayer",Nat Geo Wild
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=124
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Nat Geo Mex
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=125
@@ -325,11 +325,11 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=125
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=126
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Nat Geo Kids
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=127
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Lista TV" user-agent="suplayer",National Geographic Channel
+#EXTINF:0 tvg-id="natgeo" group-title="Lista TV" user-agent="suplayer",National Geographic Channel
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=128
 #EXTINF:0 tvg-id="Multipremier.mx" group-title="Lista TV" user-agent="suplayer",Multipremier
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=129
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Lista TV" user-agent="suplayer",Mtv Live
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Lista TV" user-agent="suplayer",Mtv Live
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=130
 #EXTINF:0 tvg-id="Maxup.br" group-title="Lista TV" user-agent="suplayer",HBO Pop
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=131
@@ -473,9 +473,9 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=216
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=217
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",AR | TNT Sports
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=219
-#EXTINF:0 tvg-id="WOBITV.mx" group-title="Lista TV" user-agent="suplayer",Wobi
+#EXTINF:0 tvg-id="WOBI.ar" group-title="Lista TV" user-agent="suplayer",Wobi
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=337
-#EXTINF:0 tvg-id="VH1HD.mx" group-title="Lista TV" user-agent="suplayer",VH1 HD
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Lista TV" user-agent="suplayer",VH1 HD
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=336
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Start TVE
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=335
@@ -501,7 +501,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=341
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=342
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Bein sports ñ T
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=343
-#EXTINF:0 tvg-id="Fightbox.eu" group-title="Lista TV" user-agent="suplayer",Fightbox
+#EXTINF:0 tvg-id="fight-box-hd" group-title="Lista TV" user-agent="suplayer",Fightbox
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=346
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Fight Time
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=347
@@ -525,7 +525,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=356
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=369
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Film&Arts
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=370
-#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista TV" user-agent="suplayer",Syfy
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Lista TV" user-agent="suplayer",Syfy
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=371
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Ultra Tainment
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=373
@@ -543,9 +543,9 @@ http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=380
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=381
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",afizzionados
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=382
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista TV" user-agent="suplayer",Fox Deportes
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="Lista TV" user-agent="suplayer",Fox Deportes
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=384
-#EXTINF:0 tvg-id="HGTV.us" group-title="Lista TV" user-agent="suplayer",HGTV
+#EXTINF:0 tvg-id="hgtv" group-title="Lista TV" user-agent="suplayer",HGTV
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=385
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="suplayer",Lazy Town
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=235
