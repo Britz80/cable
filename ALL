@@ -31,7 +31,7 @@ https://srregio.net/distroregio.php?c=spanglish&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Euronews N
 https://srregio.net/distroregio.php?c=euronews-spa&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Horrorfy
-https://srregio.net/distroregio.php?c=horrorfy&f=.m3u8
+https://srregio.net/distroregio.php?c=horrorfy&f=.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",WappTV
 https://srregio.net/distroregio.php?c=wapptv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",MMC
