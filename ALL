@@ -30,7 +30,7 @@ https://regioplay.xyz/php/SR_REGIO_805022_/distroregio.php?c=euronews-spa&f=.m3u
 https://regioplay.xyz/php/SR_REGIO_805022_/distroregio.php?c=horrorfy&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",WappTV
 https://regioplay.xyz/php/SR_REGIO_805022_/distroregio.php?c=wapptv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",MMC
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MMC 
 https://regioplay.xyz/php/SR_REGIO_805022_/distroregio.php?c=mmc&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Glewed TV
 https://regioplay.xyz/php/SR_REGIO_805022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
