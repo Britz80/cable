@@ -1,5 +1,5 @@
 #EXTM3U
-x
+
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 360p
 https://wowly.stream/hls/stream_low/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 720p
@@ -7,59 +7,55 @@ https://wowly.stream/hls/stream_src/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",CGTN Esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Top Cine Latam
-https://srregio.net/distroregio.php?c=top-cine-latam&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=top-cine-latam&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Saber mas
-https://srregio.net/distroregio.php?c=saber-mas&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=saber-mas&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Tu Cine Latam
-https://srregio.net/distroregio.php?c=tu-cine-latam&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=tu-cine-latam&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Flash
-https://srregio.net/distroregio.php?c=flash-1&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=flash-1&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",El conflicto TV
-https://srregio.net/distroregio.php?c=el-conflicto-tv&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=el-conflicto-tv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Chiquilines
-https://srregio.net/distroregio.php?c=chiquilines&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=chiquilines&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Juntos
-https://srregio.net/distroregio.php?c=juntos&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=juntos&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Sureno
-https://srregio.net/distroregio.php?c=cine-sureno&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-sureno&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Real
-https://srregio.net/distroregio.php?c=cine-real-latam&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-real-latam&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Casa Comedy
-https://srregio.net/distroregio.php?c=casa-comedy&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=casa-comedy&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Spanglish
-https://srregio.net/distroregio.php?c=spanglish&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=spanglish&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Euronews N
-https://srregio.net/distroregio.php?c=euronews-spa&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=euronews-spa&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Horrorfy
-https://srregio.net/distroregio.php?c=horrorfy&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=horrorfy&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",WappTV
-https://srregio.net/distroregio.php?c=wapptv&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=wapptv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",MMC
-https://srregio.net/distroregio.php?c=mmc&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=mmc&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Glewed TV
-https://srregio.net/distroregio.php?c=glewedtv-spanish&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="Lista TV",Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",ENERGEEK
-https://srregio.net/energeek.php?f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/energeek.php?f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",ENERGEEK 2
-https://srregio.net/energeek2.php?f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/energeek2.php?f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",LATINO KIDS
-https://srregio.net/latinokids.php?f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",ANIPLUS
-https://srregio.net/aniplus.php?f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/latinokids.php?f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",DREIKO TV
-https://srregio.net/dreiko.php?f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/dreiko.php?f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",MULTIMEDIOS MTY
-https://srregio.net/multimedios.php?f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/multimedios.php?f=.m3u8
 #EXTINF:0 tvg-id="WOWTV.us" group-title="Lista TV",WOW TV
-https://srregio.net/wowtv.php
+https://regioplay.xyz/php/SR_REGIO_715022_/wowtv.php
 #EXTINF:0 tvg-id="NETtv.svn" group-title="Lista TV",NET TV
-https://srregio.net/nettv.php?f=.m3u8
-#EXTINF:0 tvg-id="RTespanol.nws" group-title="Lista TV",RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+https://regioplay.xyz/php/SR_REGIO_715022_/nettv.php?f=.m3u8
 #EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista TV",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",AZTECA UNO
