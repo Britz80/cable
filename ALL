@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 360p
-https://wowly.stream/hls/stream_low/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 720p
-https://wowly.stream/hls/stream_src/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",CGTN Esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Top Cine Latam
@@ -51,13 +48,13 @@ https://regioplay.xyz/php/SR_REGIO_526022_/aniplus.php?f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",DREIKO TV
-http://regioplay.xyz/php/SR_REGIO_526022_/dreiko.php?f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/dreiko.php?f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_526022_/multimedios.php?f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/multimedios.php?f=.m3u8
 #EXTINF:0 tvg-id="WOWTV.us" group-title="Lista TV",WOW TV
 https://regioplay.xyz/php/SR_REGIO_526022_/wowtv.php
 #EXTINF:0 tvg-id="NETtv.svn" group-title="Lista TV",NET TV
-http://regioplay.xyz/php/SR_REGIO_526022_/nettv.php?f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/nettv.php?f=.m3u8
 #EXTINF:0 tvg-id="RTespanol.nws" group-title="Lista TV",RT ESPANOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista TV",ESTRELLA TV
@@ -81,613 +78,616 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:0 tvg-id="LA2.es" group-title="Lista TV",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:0 tvg-id="AyE.mx" group-title="Android" user-agent="paraplayer",A&E
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=1&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="AXN.mx" group-title="Android" user-agent="paraplayer",AXN
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=2&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Android" user-agent="paraplayer",Animal Planet
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=3&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Android" user-agent="paraplayer",Az Corazon
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=4&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="AzMundo.mx" group-title="Android" user-agent="paraplayer",Az Mundo
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=5&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="AMC.mx" group-title="Android" user-agent="paraplayer",AMC
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=6&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Antena3.mx" group-title="Android" user-agent="paraplayer",Antena 3 Internacional
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=7&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="Android" user-agent="paraplayer",BBC World
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=8&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Android" user-agent="paraplayer",Baby TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=9&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Bloomberg.mx" group-title="Android" user-agent="paraplayer",Bloomberg
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=10&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Android" user-agent="paraplayer",CNN Espanol
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=11&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CNNInternacional.ar" group-title="Android" user-agent="paraplayer",CNN Internacional
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=12&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Cable Noticias
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=13&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Canal Claro
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=14&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Android" user-agent="paraplayer",Caracol
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=16&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CaracolTV.us" group-title="Android" user-agent="paraplayer",Caracol Internacional
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=17&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Android" user-agent="paraplayer",Cartoon Network
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=18&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Android" user-agent="paraplayer",Cine Canal
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=19&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CineLatino.mx" group-title="Android" user-agent="paraplayer",Cine Latino
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=20&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Cinema Dinamita
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=21&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Cinema Plus
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=22&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="CityTV.bg" group-title="Android" user-agent="paraplayer",City TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=23&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Claro Cinema
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=24&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Claro Music 1
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=25&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Claro Music 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=26&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Android" user-agent="paraplayer",Claro Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=27&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Claro Sports Latinoamerica
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=28&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Android" user-agent="paraplayer",Comedy Central
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=29&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",DHE
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=31&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DW.al" group-title="Android" user-agent="paraplayer",DW
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=32&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ConcertChannel.mx" group-title="Android" user-agent="paraplayer",Concert Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=30&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",DW America
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=33&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",De Pelicula Plus
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=34&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Android" user-agent="paraplayer",Discovery Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=36&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Android" user-agent="paraplayer",Discovery Home and Health
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=37&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Android" user-agent="paraplayer",Discovery Kids
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=38&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Android" user-agent="paraplayer",Discovery Science
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=39&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Android" user-agent="paraplayer",Discovery Turbo
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=41&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Android" user-agent="paraplayer",Discovery World
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=42&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Android" user-agent="paraplayer",Discovery Theater
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=40&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Disney.uk" group-title="Android" user-agent="paraplayer",Disney
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=43&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Android" user-agent="paraplayer",Disney JR
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=44&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Android" user-agent="paraplayer",Disney XD
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=45&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="E.ar" group-title="Android" user-agent="paraplayer",E !
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=46&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Android" user-agent="paraplayer",El Gourmet
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=47&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Maschic.mx" group-title="Android" user-agent="paraplayer",Mas Chic
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=48&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="MTVHits.eu" group-title="Android" user-agent="paraplayer",MTV Hits
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=49&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="MTV.mx" group-title="Android" user-agent="paraplayer",MTV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=50&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Lifetime.mx" group-title="Android" user-agent="paraplayer",Lifetime
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=51&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Android" user-agent="paraplayer",Investigation Discovery
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=52&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ISat.mx" group-title="Android" user-agent="paraplayer",I.Sat
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=53&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HolaTV.us" group-title="Android" user-agent="paraplayer",Hola TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=54&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="H2.mx" group-title="Android" user-agent="paraplayer",H2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=55&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="History.mx" group-title="Android" user-agent="paraplayer",History Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=56&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HTV.mx" group-title="Android" user-agent="paraplayer",HTV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=57&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HLN.us" group-title="Android" user-agent="paraplayer",HLN
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=58&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Android" user-agent="paraplayer",HBO plus
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=59&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",HBO Subtitulado
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=60&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Android" user-agent="paraplayer",HBO Signature
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=61&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Android" user-agent="paraplayer",HBO Family
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=62&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HBO2.mx" group-title="Android" user-agent="paraplayer",HBO 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=63&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="Android" user-agent="paraplayer",HBO
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=64&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="GolfChannel.mx" group-title="Android" user-agent="paraplayer",Golf Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=65&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Golden Premium
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=66&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="Android" user-agent="paraplayer",Golden
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=67&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Glitz.mx" group-title="Android" user-agent="paraplayer",Glitz
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=68&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fx Movie Mex
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=69&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="France24.fr" group-title="Android" user-agent="paraplayer",France 24
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=71&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Sports 3 Sur
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=72&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Android" user-agent="paraplayer",Fox Sports 2 MX
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=74&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Sports 2 Sur
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=75&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Sports 1 Sur
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=76&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Sports 1 MX
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=77&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Premium Series Subtitulado
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=78&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="Android" user-agent="paraplayer",Fox Premium Series
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=79&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxNews.mx" group-title="Android" user-agent="paraplayer",Fox News
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=80&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="Android" user-agent="paraplayer",Fox Premium Movies
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=81&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Life Mex
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=82&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxLife.mx" group-title="Android" user-agent="paraplayer",Fox Life
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=83&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="Android" user-agent="paraplayer",Fox Premium Family
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=84&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="Android" user-agent="paraplayer",Fox Premium Comedy
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=85&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Android" user-agent="paraplayer",Fox Premium Classics
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=86&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Cinema Subtitulado
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=87&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Android" user-agent="paraplayer",Fox Premium Cinema
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=88&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fox Premium Action MX
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=89&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="Android" user-agent="paraplayer",Fox Premium Action
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=90&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Fox.mx" group-title="Android" user-agent="paraplayer",Fox
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=91&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FX.mx" group-title="Android" user-agent="paraplayer",FX
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=92&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Euro Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=93&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Espn Plus Sur
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=94&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Espn 3 Sur
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=95&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Espn 2 Sur
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=96&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Espn 1 Sur
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=97&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Win Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=98&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Android" user-agent="paraplayer",Warner Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=99&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Android" user-agent="paraplayer",Vh1 Classic
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=100&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="VH1.mx" group-title="Android" user-agent="paraplayer",Vh1
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=101&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Android" user-agent="paraplayer",Univision
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=102&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="Android" user-agent="paraplayer",Universal Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=103&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Android" user-agent="paraplayer",Unicable
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=104&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Android" user-agent="paraplayer",Tru TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=105&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="TVE.mx" group-title="Android" user-agent="paraplayer",Tve
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=106&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Android" user-agent="paraplayer",Tooncast
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=107&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Android" user-agent="paraplayer",Telemundo
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=108&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Android" user-agent="paraplayer",TNT Series
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=109&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="TNT.mx" group-title="Android" user-agent="paraplayer",TNT
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=110&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="TLC.mx" group-title="Android" user-agent="paraplayer",TLC
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=111&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="TCM.mx" group-title="Android" user-agent="paraplayer",TCM
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=112&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="TBS.mx" group-title="Android" user-agent="paraplayer",TBS
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=113&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="Android" user-agent="paraplayer",Sundance Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=114&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Android" user-agent="paraplayer",Studio Universal
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=115&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Space.mx" group-title="Android" user-agent="paraplayer",Space
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=116&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Sony.mx" group-title="Android" user-agent="paraplayer",Sony
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=117&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",RCN Telenovelas
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=118&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Pasiones.us" group-title="Android" user-agent="paraplayer",Pasiones
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=119&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Android" user-agent="paraplayer",Paramount Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=120&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Android" user-agent="paraplayer",Nickelodeon
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=121&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="NickJr.mx" group-title="Android" user-agent="paraplayer",Nick Jr
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=122&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Nick2.ar" group-title="Android" user-agent="paraplayer",Nick 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=123&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Android" user-agent="paraplayer",Nat Geo Wild
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=124&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Nat Geo Mex
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=125&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Nat Geo Kids Mex
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=126&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Nat Geo Kids
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=127&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Android" user-agent="paraplayer",National Geographic Channel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=128&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Multipremier.mx" group-title="Android" user-agent="paraplayer",Multipremier
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=129&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Android" user-agent="paraplayer",Mtv Live
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=130&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Maxup.br" group-title="Android" user-agent="paraplayer",HBO Pop
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=131&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Android" user-agent="paraplayer",HBO Xtreme
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=132&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Max.br" group-title="Android" user-agent="paraplayer",HBO Mundi
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=133&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Azteca 7
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=134&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Azteca Uno
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=135&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | ADN 40
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=136&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Az Clic
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=139&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Az Cinema
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=140&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | A3 Series
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=141&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Antena 3
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=142&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Aym Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=143&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Canal 5
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=144&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Las Estrellas
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=145&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Galatv
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=146&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Foro TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=147&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Europa Europa
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=148&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Distrito Comedia
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=149&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Multimedios
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=150&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Televisa MTY
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=151&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Garage TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=152&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Congreso de la Unión
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=153&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Imagen TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=154&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Latin American Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=155&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Teleritmo
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=156&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Milenio TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=157&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Espn Sec Network
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=158&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Espn U
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=159&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Espn Plus
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=160&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Espn
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=161&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Espn 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=162&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Fox Sports 3
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=165&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | RT Noticias
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=166&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Espn 3
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=167&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | RT en Espanol
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=168&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Tl Novelas
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=169&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | A Plus
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=170&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Cinemax
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=171&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Nicktoons
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=172&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Bandamax
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=173&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Food Network
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=174&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Televisa Puebla
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=175&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Boomerang
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=176&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Ingenio TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=177&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Ritmoson
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=178&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Telehit
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=179&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | TVC
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=180&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | TVC Deportes
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=181&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Telefórmula
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=182&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Golden
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=183&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Golden Edge
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=184&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Android" user-agent="paraplayer",Bein Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=185&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Directv Sports Plus
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=186&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Directv Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=187&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Directv Sports 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=188&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Univision UDN
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=189&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="UnivisionTDN.mx" group-title="Android" user-agent="paraplayer",Univision TDN
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=190&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",PE | TV Peru
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=191&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",PE | Peru Magico
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=192&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",PE | Panamericana
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=193&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",PE | Movistar Deportes
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=194&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",PE | Gol Peru
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=195&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",PE | Frecuencia Latina
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=196&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",COL | Trece
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=198&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",COL | RCN Internacional
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=200&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",COL | RCN
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=201&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",COL | NTN24
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=202&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",COL | Caracol 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=204&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",COL | Caracol
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=205&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",COL | Cable Noticias
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=210&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CL | Fox Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=211&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CL | Chilevision
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=212&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CL | CDO Premium
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=213&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CL | CDO Basico
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=214&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CL | CDF Premium
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=215&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CL | CDF Basico
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=216&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CL | CDF
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=217&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",AR | TNT Sports
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=219&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="WOBITV.mx" group-title="Android" user-agent="paraplayer",Wobi
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=337&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="VH1HD.mx" group-title="Android" user-agent="paraplayer",VH1 HD
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=336&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Start TVE
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=335&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",TV Mas
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=334&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MVS
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=333&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Golden Plus
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=327&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Android" user-agent="paraplayer",Discovery Civilization
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=325&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="Android" user-agent="paraplayer",De Pelicula
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=324&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Gol TV Internacional
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=338&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Tigo Sports 1
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=339&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Tigo Sports py
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=340&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Tigo Sports 3
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=341&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Android" user-agent="paraplayer",Estrella tv
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=342&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Bein sports ñ T
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=343&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Euro Sports 1
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=344&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Euro Sports 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=345&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="Fightbox.eu" group-title="Android" user-agent="paraplayer",Fightbox
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=346&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Fight Time
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=347&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Android" user-agent="paraplayer",MLB Network
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=349&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Motorsports TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=350&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",RedBull
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=351&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Android" user-agent="paraplayer",Real Madrid tv
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=352&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",UFC TV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=353&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Bitme
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=354&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Locomotion
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=355&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="Android" user-agent="paraplayer",movistar liga de Campeones
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=357&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",nueve mx
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=356&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ISat.mx" group-title="Android" user-agent="paraplayer",ISAT
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=369&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Film&Arts
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=370&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="SyFy.mx" group-title="Android" user-agent="paraplayer",Syfy
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=371&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Ultra Tainment
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=373&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Win Sports+
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=374&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | Las Estrellas -2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=375&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | EDUCA canal 1
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=376&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | EDUCA canal 2
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=377&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | EDUCA canal 3
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=378&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",MX | EDUCA canal 4
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=379&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="OnceTV.mx" group-title="Android" user-agent="paraplayer",Canal Once
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=380&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Once Niños
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=381&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",afizzionados
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=382&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="Android" user-agent="paraplayer",Fox Deportes
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=384&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="HGTV.us" group-title="Android" user-agent="paraplayer",HGTV
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=385&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Adrenalina
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=386&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Lazy Town
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=235&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Barnie y sus amigos
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=236&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Dora la exploradora
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=237&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",PJ Masks
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=238&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",caillou
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=239&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Jorge el Curioso
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=240&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Android" user-agent="paraplayer",peppa pig
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=241&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",happy tree friends
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=242&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Los picapiedras
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=243&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Le temes a la oscuridad
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=244&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Pantera Rosa 80s
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=245&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Correcaminos
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=246&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Power Rangers
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=247&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Cuentos Hermanos Grimm
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=248&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Robotech
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=249&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Estrenos 2018
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=250&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",El Chapulin Colorado
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=251&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Death Note
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=252&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",CSI Miami
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=253&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Alf
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=254&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",X-men 90s
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=255&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Vete a la Versh
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=256&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",The Walking Dead
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=257&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Super campeones
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=258&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",strangerthings
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=259&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Spiderman 80s
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=260&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Sounth Park
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=261&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Smallville
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=262&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Shera
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=263&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Señor de los cielos
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=264&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Sailormoon
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=265&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Pokemon
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=266&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Pinky y Cerebro
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=267&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Peliculas Terror
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=268&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Pablo Escobar
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=269&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Naruto
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=270&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Mazinger Z
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=271&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Malcolm el de enmedio
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=272&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Luis Miguel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=273&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Lucha Libre AAA
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=274&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Los Thundercats
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=275&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Los Simpsons
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=276&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",La Rosa de Guadalupe
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=277&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Heman
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=278&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Game Of Throne
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=279&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Futurama
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=280&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Dragon Ball Z
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=281&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Dragon Ball Super
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=282&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Dragon Ball GT
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=283&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Dragon ball
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=284&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Dinosaurios
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=285&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Coraje el perro cobarde
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=286&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Años Maravillosos
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=287&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",La casa de papel
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=288&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",El chema
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=289&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",El chavo
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=290&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",caballerosdel zodiaco
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=291&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Breaking bad
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=292&tokeen=SrRegio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Android" user-agent="paraplayer",Bob Esponja 24/7
-http://regioplay.xyz/php/SR_REGIO_526022_/regiotv2.php?c=293&tokeen=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AZ CLIC HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=11&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",LAS ESTRELLAS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=17&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Canal5.mx" group-title="Lista MX",CANAL 5
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=20&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista MX",AZTECA 7
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=21&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",NU9VE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=24&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista MX",ONCE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=25&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AZTECA UNO
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=27&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Lista MX",TELEFORMULA SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=32&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MEXIQUENSE TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=44&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista MX",AZ CORAZON
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=70&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="Lista MX",AZ MUNDO
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=84&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista MX",AZTECA 7 HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=317&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista MX",AZTECA 7 HD (2)
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=322&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",IMAGEN TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2298&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MULTIMEDIOS MTY
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2305&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",APREDNE TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=401&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MULTIMEDIOS CDMX
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1253&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",NU9VE HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1783&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",LAS ESTRELLAS HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1784&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="Lista MX",CANAL 5 HD (2)
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1785&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista MX",ONCE HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1942&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MVS TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2149&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TVC.mx" group-title="Lista MX",TVC
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2156&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CANAL 4
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2274&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CANAL 8
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2307&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEVISA PUEBLA
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2312&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="A+.civ" group-title="Lista MX",A+
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2316&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TVMAS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2324&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CANAL DEL CONGRESO
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2331&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MULTIMEDIOS CDMX
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2352&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",IMAGEN TV HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2606&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ACADEMIA
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2703&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Lista MX",MULTIMEDIOS HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2882&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Lista MX",TOONCAST
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=108&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista MX",DISCOVERY KIDS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=109&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Lista MX",NICK
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=110&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista MX",DISNEY XD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=111&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista MX",CARTOON NETWORK
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=112&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Lista MX",DISNEY CHANNEL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=113&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Boomerang.mx" group-title="Lista MX",BOOMERANG
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=115&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Lista MX",BABY TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=116&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista MX",NICK JR
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=117&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista MX",DISNEY JR
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=118&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Nicktoons.mx" group-title="Lista MX",NICKTOONS SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1708&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Lista MX",BABY FIRST
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1984&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Nick2.ar" group-title="Lista MX",NICK 2
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2147&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",NAT GEO KIDS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2373&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",BIT ME
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2591&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TBS.mx" group-title="Lista MX",TBS SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=81&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",DE PELICULA +
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=121&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",GOLDEN +
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=122&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Lista MX",GOLDEN
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=123&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Lista MX",GOLDEN EDGE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=124&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TNT.mx" group-title="Lista MX",TNT
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=126&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TCM.mx" group-title="Lista MX",TCM
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=128&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Space.mx" group-title="Lista MX",SPACE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=129&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AMC.mx" group-title="Lista MX",AMC
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=131&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista MX",STUDIO UNIVERSAL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=132&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista MX",I SAT
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=135&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",EUROPA CHANNEL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=136&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FilmyArts.cl" group-title="Lista MX",FILMS & ARTS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=137&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista MX",FXM
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=138&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista MX",FXM SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=332&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",STAR SERIES
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=139&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MORBIDO
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=140&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="StarMovies.in" group-title="Lista MX",STAR MOVIES
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=146&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista MX",CINECANAL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=149&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista MX",CINEMAX
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=158&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AMC.mx" group-title="Lista MX",AMC
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=328&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista MX",DE PELICULA SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=335&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",STAR ACTION
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=336&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Lista MX",PARAMOUNT CHANNEL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1726&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="star-cinema" group-title="Lista MX",STAR CINEMA SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1729&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",STAR CLASSICS SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1732&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AZ CINEMA
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1787&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEMUNDO INTERNACIONAL HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=85&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="star.gr" group-title="Lista MX",STAR
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=46&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Sony.mx" group-title="Lista MX",SONY
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=48&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Lista MX",WARNER TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=52&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Lista MX",E!
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=55&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista MX",UNIVERSAL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=57&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista MX",SYFY
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=59&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FX.mx" group-title="Lista MX",FX
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=60&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Lista MX",A&E
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=62&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AXN.mx" group-title="Lista MX",AXN
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=64&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista MX",UNICABLE SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=66&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Lista MX",SUNDANCE TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=69&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista MX",TNT SERIES
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=71&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista MX",GLITZ
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=76&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista MX",GOURMET
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=74&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Lista MX",STAR LIFE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=77&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Lista MX",DISTRITO COMEDIA SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=78&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.mx" group-title="Lista MX",TRUTV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=79&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista MX",TL NOVELAS SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=83&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.mx" group-title="Lista MX",LIFETIME
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=94&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Antena3.mx" group-title="Lista MX",ANTENA 3
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=199&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Start.tr" group-title="Lista MX",STAR HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=201&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",WARNER TV HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=205&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="UniversalHD.mx" group-title="Lista MX",UNIVERSAL HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=207&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Lista MX",FX HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=209&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Lista MX",TRUTV HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=215&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista MX",HOLA TV HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=219&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista MX",COMEDY CENTRAL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=340&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista MX",COMEDY CENTRAL SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=341&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista MX",UNICABLE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1499&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista MX",MAS CHIC
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1842&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Lista MX",A3SERIES
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2113&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ESPN+.mx" group-title="Lista MX",ESPN +
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=167&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Lista MX",ESPN
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=168&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Lista MX",ESPN 2
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=169&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista MX",FOX SPORTS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=170&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista MX",FOX SPORTS 2
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=172&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TUDN
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=174&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Lista MX",FOX SPORTS 3
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=178&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Golf.es" group-title="Lista MX",GOLF
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=179&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Lista MX",AYM SPORTS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=180&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Lista MX",ESPN 3
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=345&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TUDN HD (2)
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1049&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ADRENALINA SPORTS HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1799&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",LAS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2089&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",HAVOC
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2148&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Lista MX",TVC DEPORTES
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2157&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CLARO SPORTS HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2564&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Lista MX",FUEL TV HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2587&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista MX",DISCOVERY ID
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=68&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Lista MX",GARAGE TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=75&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista MX",DISCOVERY CHANNEL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=86&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista MX",ANIMAL PLANET
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=88&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="HistoryEurope.eu" group-title="Lista MX",HISTORY
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=89&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Lista MX",NAT GEO
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=91&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista MX",NAT GEO WILD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=92&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista MX",DISCOVERY THEATER
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=95&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Lista MX",H&H
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=96&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TLC.mx" group-title="Lista MX",TLC
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=97&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista MX",DISCOVERY SCIENCE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=98&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Lista MX",DISCOVERY CIVILIZATION
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=99&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista MX",DISCOVERY WORLD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=101&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="TVE.mx" group-title="Lista MX",TVE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=198&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="Lista MX",SHOPPING
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1943&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Lista MX",FOOD NETWORK
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2145&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="Lista MX",STAR  TVE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2375&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista MX",DISCOVERY TURBO
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2379&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CURIOSITY STREAM
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2594&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Lista MX",MTV LIVE
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=211&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="MTV.mx" group-title="Lista MX",MTV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=212&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="Lista MX",MTV HITS SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=213&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Lista MX",VH1 CLASSIC SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=214&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="VH1.mx" group-title="Lista MX",VH1 SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=217&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEHIT URBANO SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=218&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEHIT +
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=220&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Lista MX",BANDAMAX SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=221&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="AzClic.mx" group-title="Lista MX",AZ CLIC
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=223&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="VH1HD.mx" group-title="Lista MX",VH1 HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=334&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",FOROTV HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=4&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="FOROtv.us" group-title="Lista MX",FOROTV SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=19&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ADN40
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=40&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ADN 40 HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=184&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Lista MX",CNN
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=185&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Lista MX",CNN SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=186&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CNN Ñ SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=187&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="WOBITV.mx" group-title="Lista MX",WOBI
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=102&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",FOXN EWS
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=188&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Bloomberg.mx" group-title="Lista MX",BLOOMBERG
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=190&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="bbc-world" group-title="Lista MX",BBC SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=191&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AL JAAZERA
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=192&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="NTN24.us" group-title="Lista MX",NTN 24
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=194&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",JUSTICIA TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=196&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="HLN.us" group-title="Lista MX",HLN
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=197&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Lista MX",DW
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=203&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Lista MX",RT
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=999&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MILENIO HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1250&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Lista MX",MILENIO SD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1252&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="Cadena3.mx" group-title="Lista MX",EXCELSIOR TV
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1449&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",EL FINANCIERO HD
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1649&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="RTespanol.nws" group-title="Lista MX",RT ESPAÑOL
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2091&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="France24.fr" group-title="Lista MX",FRANCE 24
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2402&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES) 14
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=3314&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES) 15
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=3315&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES)
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=3316&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES)
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=3317&p=3&k=SrRegio&token=regioplay&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES)
+http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=3318&p=3&k=SrRegio&token=regioplay&f=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Vix",40 Y 20
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=340&pid=340&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Adrenalina Sport
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=393&pid=393&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Afizzionados
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=348&pid=348&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Alegrijes Y Rebujos
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=319&pid=319&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Amigas Y Rivales
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=320&pid=320&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Amores Verdaderos
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=305&pid=305&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Aqui Y Ahora
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=306&pid=306&f=tokeen=regio_
+#EXTINF:0 tvg-id="ATV+.pe" group-title="Vix",Atv+
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=258&pid=258&f=tokeen=regio_
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Vix",Bandamax
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=400&pid=400&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Bein Sports Xtra
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=256&pid=256&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Bitme
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=401&pid=401&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Canal 5 (Mx)
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=351&pid=351&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine 1
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=307&pid=307&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine 2
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=308&pid=308&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine 3
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=309&pid=309&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine Club - Prendetv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=192&pid=192&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine Del Ayer
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=429&pid=429&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Clase 406
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=322&pid=322&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cnn Colombia
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=358&pid=358&f=tokeen=regio_
+#EXTINF:0 tvg-id="ComedyTV.ge" group-title="Vix",Comedy Tv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=89&pid=89&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Como Dice El Dicho
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=341&pid=341&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Corazón Salvaje
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=325&pid=325&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Crónicas
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=315&pid=315&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cuidado Con El Angel
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=316&pid=316&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Del Mercado Al Plato
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=317&pid=317&f=tokeen=regio_
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Vix",Distrito Comedia
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=405&pid=405&f=tokeen=regio_
+#EXTINF:0 tvg-id="DePeliculaHD.mx" group-title="Vix",Dpeliculas
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=354&pid=354&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Dpeliculas +
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=404&pid=404&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Durmiendo Con Mi Jefe
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=312&pid=312&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",El Privilegio De Mandar
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=313&pid=313&f=tokeen=regio_
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Vix",Euronews
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=255&pid=255&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Failarmy
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=197&pid=197&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Familia P. Luche
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=311&pid=311&f=tokeen=regio_
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Vix",Foro Tv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=300&pid=300&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Fun Videos
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=121&pid=121&f=tokeen=regio_
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Vix",Golden Edge
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=407&pid=407&f=tokeen=regio_
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Vix",Golden Edge Sd
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=410&pid=410&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Golden Plus
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=414&pid=414&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Golden South
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=409&pid=409&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Golden South Sd
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=413&pid=413&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Héroes Del Norte
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=323&pid=323&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Juana La Virgen
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=327&pid=327&f=tokeen=regio_
+#EXTINF:0 tvg-id="Kids.br" group-title="Vix",Kids
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=355&pid=355&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",La Promesa
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=343&pid=343&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",La Rosa De Guadalupe
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=344&pid=344&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",La Selecc10n
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=345&pid=345&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Las Estrellas
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=415&pid=415&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Latidos Music
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=257&pid=257&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Level Up - Games
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=263&pid=263&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Lo Mejor De La Liga Mx - Prendetv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=193&pid=193&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Lo Que Diga El Corazon
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=346&pid=346&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Local View
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=402&pid=402&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Local View 2
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=403&pid=403&f=tokeen=regio_
+#EXTINF:0 tvg-id="LoveNature.eu" group-title="Vix",Love Nature
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=390&pid=390&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",María Mercedes
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=328&pid=328&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Media +
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=301&pid=301&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Mi Gorda Bella
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=334&pid=334&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Muchachitas
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=331&pid=331&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Muchachitas Como Tu
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=332&pid=332&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",My Time Movies
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=261&pid=261&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Noticias Univision 24/7
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=254&pid=254&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas De Oro - Prendetv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=196&pid=196&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas De Romance - Prendetv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=194&pid=194&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas En Familia - Prendetv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=195&pid=195&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Nuestra Vision
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=262&pid=262&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden
+http://linear-409&pid=409&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden
+http://linear-406&pid=406&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden Edge
+http://linear-407&pid=407&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden Plus
+http://linear-410&pid=410&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Papa A Toda Madre
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=336&pid=336&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",People Are Awesome
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=39&pid=39&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Que Bonito Amor
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=329&pid=329&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Rcn Mas
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=286&pid=286&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Rebelde
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=335&pid=335&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Retro Peli
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=304&pid=304&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Revry-Lgbtq Tv
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=139&pid=139&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Sortilegio
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=337&pid=337&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Soy Tu Dueña
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=318&pid=318&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Soy Tu Dueña
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=339&pid=339&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tele Musica
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=418&pid=418&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tele Musica+
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=419&pid=419&f=tokeen=regio_
+#EXTINF:0 tvg-id="Telehit.mx" group-title="Vix",Telehit
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=417&pid=417&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Teresa
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=342&pid=342&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Teresa
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=324&pid=324&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",The Weather Channel(Es)
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=431&pid=431&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",The Weather Channel(Es) Hd
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=453&pid=453&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tln Novelas
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=421&pid=421&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tn23
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=259&pid=259&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tres Veces Ana
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=321&pid=321&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Triunfo Del Amor
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=338&pid=338&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=373&pid=373&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=372&pid=372&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=376&pid=376&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=380&pid=380&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=375&pid=375&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=385&pid=385&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=386&pid=386&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=381&pid=381&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=379&pid=379&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=357&pid=357&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=347&pid=347&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=378&pid=378&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=383&pid=383&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=384&pid=384&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=377&pid=377&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=360&pid=360&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=374&pid=374&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tv Venta
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=352&pid=352&f=tokeen=regio_
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Vix",Unicable
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=423&pid=423&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Unknown 101
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=330&pid=330&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Unknown 262
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=446&pid=446&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Vecinos
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=314&pid=314&f=tokeen=regio_
+#EXTINF:0 tvg-id="vevo" group-title="Vix",Vevo
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=389&pid=389&f=tokeen=regio_
+#EXTINF:0 tvg-id="vevo" group-title="Vix",Vevo
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=388&pid=388&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Videos Chistosos
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=46&pid=46&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Videos Chistosos 2
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=49&pid=49&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Vivo Play
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=260&pid=260&f=tokeen=regio_
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Vix",Cine
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=449&pid=449&f=tokeen=regio_
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Vix",Cine Sd
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=450&pid=450&f=tokeen=regio_
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Vix",Cine Sd
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=451&pid=451&f=tokeen=regio_
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Vix",Deportes
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=452&pid=452&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=445&pid=445&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas Hd
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=448&pid=448&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas Sd
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=447&pid=447&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Xh Derbez - Nosotros Los Guapos
+http://srregio.net/php/SR_REGIO_526022_/vix.php?c=310&pid=310&f=tokeen=regio_
