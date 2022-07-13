@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 360p
+https://wowly.stream/hls/stream_low/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 720p
+https://wowly.stream/hls/stream_src/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",CGTN Esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista TV",Top Cine Latam
@@ -686,8 +689,3 @@ http://srregio.net/php/SR_REGIO_526022_/vix.php?c=452&pid=452&f=tokeen=regio_
 #EXTINF:0 tvg-id="ext" group-title="Vix",Novelas
 http://srregio.net/php/SR_REGIO_526022_/vix.php?c=445&pid=445&f=tokeen=regio_
 #EXTINF:0 tvg-id="ext" group-title="Vix",Novelas Hd
-http://srregio.net/php/SR_REGIO_526022_/vix.php?c=448&pid=448&f=tokeen=regio_
-#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas Sd
-http://srregio.net/php/SR_REGIO_526022_/vix.php?c=447&pid=447&f=tokeen=regio_
-#EXTINF:0 tvg-id="ext" group-title="Vix",Xh Derbez - Nosotros Los Guapos
-http://srregio.net/php/SR_REGIO_526022_/vix.php?c=310&pid=310&f=tokeen=regio_
