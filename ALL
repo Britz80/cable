@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)&g=file&dir=bblaccghhoosys&f=.m3u8",BLACKGHOST 01
-http://bgapp.live/TV&g=file&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9).ts",Apoyanos para seguirte ofreciendo mas opciones
-http://bgapp.live/TV&g=file&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",http://paypal.me/blackghost
-http://bgapp.live/TV&g=file&dir=bblaccghhoosys&f=.m3u8
+
 #EXTINF:0 tvg-id="AyE.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",A&E
 http://bgapp.live/play/14--777.php?c=1&dir=bblaccghhoosys&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",A&E Sur
