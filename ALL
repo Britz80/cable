@@ -1,1012 +1,696 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="AyE.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",A&E
-http://bgapp.live/play/14--777.php?c=1&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",A&E Sur
-http://bgapp.live/play/14--777.php?c=734&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AyE.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",A&E
-http://bgapp.live/play/14--777.php?c=474&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="A+.civ" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",A+
-http://bgapp.live/play/14--777.php?c=406&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Atreseries.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",A3Series
-http://bgapp.live/play/14--777.php?c=444&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ADN 40
-http://bgapp.live/play/14--777.php?c=447&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Afizzionados
-http://bgapp.live/play/14--777.php?c=878&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Alf 24/7
-http://bgapp.live/play/14--777.php?c=426&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AMC.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AMC
-http://bgapp.live/play/14--777.php?c=183&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AMC.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AMC ES
-http://bgapp.live/play/14--777.php?c=715&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AMC.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AMC
-http://bgapp.live/play/14--777.php?c=475&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="America2.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",America
-http://bgapp.live/play/14--777.php?c=780&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Animal Planet
-http://bgapp.live/play/14--777.php?c=3&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Animal Planet
-http://bgapp.live/play/14--777.php?c=633&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Animaniacs 24/7
-http://bgapp.live/play/14--777.php?c=677&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Anime 24H
-http://bgapp.live/play/14--777.php?c=269&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Antena3.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Antena 3
-http://bgapp.live/play/14--777.php?c=298&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AXN.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AXN
-http://bgapp.live/play/14--777.php?c=146&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AXN Sur
-http://bgapp.live/play/14--777.php?c=804&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AXN (ES)
-http://bgapp.live/play/14--777.php?c=713&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AXN.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AXN
-http://bgapp.live/play/14--777.php?c=476&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AXN WHITE (ES)
-http://bgapp.live/play/14--777.php?c=714&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AyMSports.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",AyM Sports
-http://bgapp.live/play/14--777.php?c=148&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Az Cinema
-http://bgapp.live/play/14--777.php?c=186&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AzClic.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Az Clic
-http://bgapp.live/play/14--777.php?c=165&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Az Corazón
-http://bgapp.live/play/14--777.php?c=166&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Az Corazón
-http://bgapp.live/play/14--777.php?c=834&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Azteca 1
-http://bgapp.live/play/14--777.php?c=4&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Azteca 1
-http://bgapp.live/play/14--777.php?c=634&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Azteca 7
-http://bgapp.live/play/14--777.php?c=5&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Azteca 7
-http://bgapp.live/play/14--777.php?c=635&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Baby TV
-http://bgapp.live/play/14--777.php?c=7&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Bandamax.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Bandamax
-http://bgapp.live/play/14--777.php?c=8&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Bandamax.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Bandamax
-http://bgapp.live/play/14--777.php?c=833&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Barbie 24/7
-http://bgapp.live/play/14--777.php?c=788&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Bein
-http://bgapp.live/play/14--777.php?c=763&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",BeinSports
-http://bgapp.live/play/14--777.php?c=753&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",BeinSports
-http://bgapp.live/play/14--777.php?c=9&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",BeinSports Ñ
-http://bgapp.live/play/14--777.php?c=761&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",BeinSports Ñ
-http://bgapp.live/play/14--777.php?c=376&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Bleach 24/7
-http://bgapp.live/play/14--777.php?c=883&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Bob Esponja 24/7
-http://bgapp.live/play/14--777.php?c=518&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Bolivision
-http://bgapp.live/play/14--777.php?c=783&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Breaking Bad 24/7
-http://bgapp.live/play/14--777.php?c=846&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Brickleberry 24/7
-http://bgapp.live/play/14--777.php?c=789&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Caballeros del Zodiaco 24/7
-http://bgapp.live/play/14--777.php?c=427&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal 2 Televicentro
-http://bgapp.live/play/14--777.php?c=211&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Canal5.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal 5
-http://bgapp.live/play/14--777.php?c=14&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal 5 Honduras
-http://bgapp.live/play/14--777.php?c=773&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CanalEstrellas.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal de las Estrellas
-http://bgapp.live/play/14--777.php?c=411&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal de las Estrellas Sur
-http://bgapp.live/play/14--777.php?c=736&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CanalEstrellas.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal de las Estrellas
-http://bgapp.live/play/14--777.php?c=636&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal Del Futbol
-http://bgapp.live/play/14--777.php?c=892&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal Once
-http://bgapp.live/play/14--777.php?c=15&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="M.Accion.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal+ Accion
-http://bgapp.live/play/14--777.php?c=364&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Canal+ Toros
-http://bgapp.live/play/14--777.php?c=369&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Candy Candy 24/7
-http://bgapp.live/play/14--777.php?c=808&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cantinflas 24/7
-http://bgapp.live/play/14--777.php?c=428&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Capital TV
-http://bgapp.live/play/14--777.php?c=205&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Caracol
-http://bgapp.live/play/14--777.php?c=391&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CaracolTV.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Caracol Internacional
-http://bgapp.live/play/14--777.php?c=290&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cartoon Network
-http://bgapp.live/play/14--777.php?c=17&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cartoon Network Sur
-http://bgapp.live/play/14--777.php?c=737&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cartoon Network
-http://bgapp.live/play/14--777.php?c=637&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cartoonito (Boomerang)
-http://bgapp.live/play/14--777.php?c=11&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cartoonito (Boomerang)
-http://bgapp.live/play/14--777.php?c=824&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cartoonito Sur
-http://bgapp.live/play/14--777.php?c=735&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CatDog 24/7
-http://bgapp.live/play/14--777.php?c=785&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CBeebies.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CBeebies
-http://bgapp.live/play/14--777.php?c=13&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CDFPremium.cl" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CDF Premium
-http://bgapp.live/play/14--777.php?c=318&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CDFPremium.cl" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CDF Premium
-http://bgapp.live/play/14--777.php?c=725&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CDN Sportsmax
-http://bgapp.live/play/14--777.php?c=206&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CDO
-http://bgapp.live/play/14--777.php?c=513&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CDO Premium
-http://bgapp.live/play/14--777.php?c=401&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Chapulin Colorado 24/7
-http://bgapp.live/play/14--777.php?c=418&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Chespirito 24/7
-http://bgapp.live/play/14--777.php?c=417&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CHV Chilevision
-http://bgapp.live/play/14--777.php?c=198&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine 2020
-http://bgapp.live/play/14--777.php?c=857&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Accion
-http://bgapp.live/play/14--777.php?c=699&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Accion
-http://bgapp.live/play/14--777.php?c=706&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Accion Sagas
-http://bgapp.live/play/14--777.php?c=700&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Accion Sagas
-http://bgapp.live/play/14--777.php?c=707&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Comedia 1
-http://bgapp.live/play/14--777.php?c=695&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Comedia 2
-http://bgapp.live/play/14--777.php?c=696&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Ficcion/Fantasia 1
-http://bgapp.live/play/14--777.php?c=709&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Ficcion/Fantasia 2
-http://bgapp.live/play/14--777.php?c=710&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Ficcion/Fantasia
-http://bgapp.live/play/14--777.php?c=712&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Ficcion/Fantasia Sagas
-http://bgapp.live/play/14--777.php?c=711&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Infantil
-http://bgapp.live/play/14--777.php?c=687&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Infantil
-http://bgapp.live/play/14--777.php?c=702&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Infantil Sagas
-http://bgapp.live/play/14--777.php?c=694&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Infantil Sagas
-http://bgapp.live/play/14--777.php?c=703&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CineLatino.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Latino
-http://bgapp.live/play/14--777.php?c=295&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Marvel
-http://bgapp.live/play/14--777.php?c=697&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Marvel
-http://bgapp.live/play/14--777.php?c=701&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Romance
-http://bgapp.live/play/14--777.php?c=689&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Romance
-http://bgapp.live/play/14--777.php?c=705&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Terror
-http://bgapp.live/play/14--777.php?c=693&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Terror
-http://bgapp.live/play/14--777.php?c=704&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cine Zombis
-http://bgapp.live/play/14--777.php?c=688&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cinecanal
-http://bgapp.live/play/14--777.php?c=18&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cinecanal Sur
-http://bgapp.live/play/14--777.php?c=738&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cinecanal
-http://bgapp.live/play/14--777.php?c=479&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cinemax
-http://bgapp.live/play/14--777.php?c=20&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cinemax Sur
-http://bgapp.live/play/14--777.php?c=739&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Cinemax
-http://bgapp.live/play/14--777.php?c=638&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Claro Sports
-http://bgapp.live/play/14--777.php?c=328&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CNNesp.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CNN en Español
-http://bgapp.live/play/14--777.php?c=136&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Comedy Central
-http://bgapp.live/play/14--777.php?c=135&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Comedy Central Sur
-http://bgapp.live/play/14--777.php?c=740&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Comedy Central (ES)
-http://bgapp.live/play/14--777.php?c=719&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Comedy Central
-http://bgapp.live/play/14--777.php?c=480&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Coraje el Perro Cobarde 24/7
-http://bgapp.live/play/14--777.php?c=519&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Crime Investigation (ES)
-http://bgapp.live/play/14--777.php?c=720&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",CTNI
-http://bgapp.live/play/14--777.php?c=160&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",De Película
-http://bgapp.live/play/14--777.php?c=21&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",De Pelicula
-http://bgapp.live/play/14--777.php?c=481&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DeporTV.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",DeporTV
-http://bgapp.live/play/14--777.php?c=139&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",DHE
-http://bgapp.live/play/14--777.php?c=844&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Dinosaurios 24/7
-http://bgapp.live/play/14--777.php?c=670&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",DirectTV Sports
-http://bgapp.live/play/14--777.php?c=259&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",DirectTV Sports 2
-http://bgapp.live/play/14--777.php?c=667&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",DirectTV Sports Peru
-http://bgapp.live/play/14--777.php?c=879&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Channel
-http://bgapp.live/play/14--777.php?c=22&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Channel Sur
-http://bgapp.live/play/14--777.php?c=741&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Channel
-http://bgapp.live/play/14--777.php?c=639&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Civilization
-http://bgapp.live/play/14--777.php?c=23&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery H&H
-http://bgapp.live/play/14--777.php?c=24&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery H&H Sur
-http://bgapp.live/play/14--777.php?c=742&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery H&H
-http://bgapp.live/play/14--777.php?c=640&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Kids
-http://bgapp.live/play/14--777.php?c=25&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Kids
-http://bgapp.live/play/14--777.php?c=641&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery SCI
-http://bgapp.live/play/14--777.php?c=26&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Theater
-http://bgapp.live/play/14--777.php?c=27&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Turbo
-http://bgapp.live/play/14--777.php?c=28&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery Turbo
-http://bgapp.live/play/14--777.php?c=727&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Discovery World
-http://bgapp.live/play/14--777.php?c=187&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Disney Channel
-http://bgapp.live/play/14--777.php?c=29&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Disney Junior
-http://bgapp.live/play/14--777.php?c=30&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Disney Junior Sur
-http://bgapp.live/play/14--777.php?c=743&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Disney Junior
-http://bgapp.live/play/14--777.php?c=826&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Disney XD
-http://bgapp.live/play/14--777.php?c=31&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Disney XD Sur
-http://bgapp.live/play/14--777.php?c=744&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Disney XD
-http://bgapp.live/play/14--777.php?c=827&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Distrito Comedia
-http://bgapp.live/play/14--777.php?c=32&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Djing Ibiza
-http://bgapp.live/play/14--777.php?c=277&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Doraemon 24/7
-http://bgapp.live/play/14--777.php?c=521&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Dragon Ball 24/7
-http://bgapp.live/play/14--777.php?c=425&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Dragon Ball GT 24/7
-http://bgapp.live/play/14--777.php?c=520&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Dragon Ball Super 24/7
-http://bgapp.live/play/14--777.php?c=424&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Dragon Ball Z 24/7
-http://bgapp.live/play/14--777.php?c=329&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="E.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",E!
-http://bgapp.live/play/14--777.php?c=33&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="E.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",E!
-http://bgapp.live/play/14--777.php?c=483&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Ecuavisa
-http://bgapp.live/play/14--777.php?c=319&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Efekto TV
-http://bgapp.live/play/14--777.php?c=275&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El 13 Argentina
-http://bgapp.live/play/14--777.php?c=239&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Chavo Animado 24/7
-http://bgapp.live/play/14--777.php?c=790&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Chavo del 8 24/7
-http://bgapp.live/play/14--777.php?c=400&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Coyote y el Correcaminos 24/7
-http://bgapp.live/play/14--777.php?c=429&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Gallo Claudio 24/7
-http://bgapp.live/play/14--777.php?c=845&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Gourmet
-http://bgapp.live/play/14--777.php?c=157&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Increible Mundo de Gumball 24/7
-http://bgapp.live/play/14--777.php?c=791&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Canal9.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Nueve
-http://bgapp.live/play/14--777.php?c=772&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Pajaro Loco 24/7
-http://bgapp.live/play/14--777.php?c=525&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Principel del Rap 24/7
-http://bgapp.live/play/14--777.php?c=430&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Señor de los Cielos 24/7
-http://bgapp.live/play/14--777.php?c=820&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ElTrece.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Trece
-http://bgapp.live/play/14--777.php?c=765&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ElTrece.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",El Trece
-http://bgapp.live/play/14--777.php?c=767&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Enlace Juvenil
-http://bgapp.live/play/14--777.php?c=162&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Enlace TV
-http://bgapp.live/play/14--777.php?c=161&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ESPN.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN
-http://bgapp.live/play/14--777.php?c=34&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN 2
-http://bgapp.live/play/14--777.php?c=35&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN 2
-http://bgapp.live/play/14--777.php?c=484&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN 2 MX
-http://bgapp.live/play/14--777.php?c=531&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN 3
-http://bgapp.live/play/14--777.php?c=485&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN Chile
-http://bgapp.live/play/14--777.php?c=842&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ESPN.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN
-http://bgapp.live/play/14--777.php?c=486&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN MX
-http://bgapp.live/play/14--777.php?c=530&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ESPN3.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN Plus
-http://bgapp.live/play/14--777.php?c=37&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ESPN3.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ESPN Plus
-http://bgapp.live/play/14--777.php?c=487&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Estrella TV
-http://bgapp.live/play/14--777.php?c=177&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Eurosport
-http://bgapp.live/play/14--777.php?c=39&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="EWTN.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",EWTN
-http://bgapp.live/play/14--777.php?c=38&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FilmArts.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Film & Arts
-http://bgapp.live/play/14--777.php?c=149&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Film & Arts (EN)
-http://bgapp.live/play/14--777.php?c=729&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",FM Hot TV
-http://bgapp.live/play/14--777.php?c=731&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Formula 1 TV (F1)
-http://bgapp.live/play/14--777.php?c=192&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sur
-http://bgapp.live/play/14--777.php?c=750&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Life Sur
-http://bgapp.live/play/14--777.php?c=746&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports
-http://bgapp.live/play/14--777.php?c=52&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports 2
-http://bgapp.live/play/14--777.php?c=53&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports 2 Argentina
-http://bgapp.live/play/14--777.php?c=770&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports 2
-http://bgapp.live/play/14--777.php?c=494&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports 2 MX
-http://bgapp.live/play/14--777.php?c=528&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports 3
-http://bgapp.live/play/14--777.php?c=54&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports 3
-http://bgapp.live/play/14--777.php?c=839&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports Argentina
-http://bgapp.live/play/14--777.php?c=769&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports
-http://bgapp.live/play/14--777.php?c=493&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports MX
-http://bgapp.live/play/14--777.php?c=527&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports MX Sur
-http://bgapp.live/play/14--777.php?c=748&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports Premium
-http://bgapp.live/play/14--777.php?c=512&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports Premium
-http://bgapp.live/play/14--777.php?c=658&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports Sur
-http://bgapp.live/play/14--777.php?c=402&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports Sur 2
-http://bgapp.live/play/14--777.php?c=410&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Fox Sports Sur 3
-http://bgapp.live/play/14--777.php?c=511&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Futurama 24/7
-http://bgapp.live/play/14--777.php?c=793&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FX.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",FX
-http://bgapp.live/play/14--777.php?c=42&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",FX Sur
-http://bgapp.live/play/14--777.php?c=749&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FX.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",FX
-http://bgapp.live/play/14--777.php?c=495&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",FXM
-http://bgapp.live/play/14--777.php?c=43&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",FXM
-http://bgapp.live/play/14--777.php?c=488&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="GalaTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Gala TV
-http://bgapp.live/play/14--777.php?c=56&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="GalaTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Gala TV
-http://bgapp.live/play/14--777.php?c=651&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Gamavision
-http://bgapp.live/play/14--777.php?c=891&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Game of Thrones 24/7
-http://bgapp.live/play/14--777.php?c=515&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Garfield 24/7
-http://bgapp.live/play/14--777.php?c=812&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Glitz
-http://bgapp.live/play/14--777.php?c=158&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Gol Peru
-http://bgapp.live/play/14--777.php?c=686&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="GolTV.cl" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Gol TV
-http://bgapp.live/play/14--777.php?c=287&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="GolTV.cl" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Gol TV
-http://bgapp.live/play/14--777.php?c=514&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Golden
-http://bgapp.live/play/14--777.php?c=57&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Golden Edge
-http://bgapp.live/play/14--777.php?c=58&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Golden
-http://bgapp.live/play/14--777.php?c=496&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="H2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",H2
-http://bgapp.live/play/14--777.php?c=61&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",H2 Sur
-http://bgapp.live/play/14--777.php?c=760&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO
-http://bgapp.live/play/14--777.php?c=62&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO (EN)
-http://bgapp.live/play/14--777.php?c=723&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HBO2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO 2
-http://bgapp.live/play/14--777.php?c=300&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO 2 (EN)
-http://bgapp.live/play/14--777.php?c=724&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HBO2.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO 2
-http://bgapp.live/play/14--777.php?c=732&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO 2 (EN)
-http://bgapp.live/play/14--777.php?c=733&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO Family
-http://bgapp.live/play/14--777.php?c=63&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO
-http://bgapp.live/play/14--777.php?c=654&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO Plus
-http://bgapp.live/play/14--777.php?c=64&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO Plus (EN)
-http://bgapp.live/play/14--777.php?c=722&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO Plus
-http://bgapp.live/play/14--777.php?c=655&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HBOPlusW.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO Plus Oeste
-http://bgapp.live/play/14--777.php?c=728&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO Xtreme
-http://bgapp.live/play/14--777.php?c=814&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HBO Xtreme
-http://bgapp.live/play/14--777.php?c=841&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HCH
-http://bgapp.live/play/14--777.php?c=779&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Hey Arnold 24/7
-http://bgapp.live/play/14--777.php?c=522&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Historia.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Historia (ES)
-http://bgapp.live/play/14--777.php?c=718&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="History.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",History Channel
-http://bgapp.live/play/14--777.php?c=67&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="History.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",History Channel
-http://bgapp.live/play/14--777.php?c=642&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="H!TMusic.ro" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Hit TV
-http://bgapp.live/play/14--777.php?c=201&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Hola TV
-http://bgapp.live/play/14--777.php?c=189&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="HTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",HTV
-http://bgapp.live/play/14--777.php?c=66&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ISat.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",I.Sat
-http://bgapp.live/play/14--777.php?c=153&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ImagenTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Imagen Television
-http://bgapp.live/play/14--777.php?c=341&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ImagenTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Imagen Televisión
-http://bgapp.live/play/14--777.php?c=643&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Investigation Discovery
-http://bgapp.live/play/14--777.php?c=68&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Investigation Discovery
-http://bgapp.live/play/14--777.php?c=825&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Johnny Bravo 24/7
-http://bgapp.live/play/14--777.php?c=786&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="jctv" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Juce TV
-http://bgapp.live/play/14--777.php?c=263&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Casa de Papel 24/7
-http://bgapp.live/play/14--777.php?c=403&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Familia PeLuche 24/7
-http://bgapp.live/play/14--777.php?c=811&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Hora Pico 24/7
-http://bgapp.live/play/14--777.php?c=887&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Pantera Rosa 24/7
-http://bgapp.live/play/14--777.php?c=671&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Pequeña Lulu 24/7
-http://bgapp.live/play/14--777.php?c=792&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Rosa de Guadalupe 24/7
-http://bgapp.live/play/14--777.php?c=886&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Sfa
-http://bgapp.live/play/14--777.php?c=326&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",La Vaca y ElPollito 24/7
-http://bgapp.live/play/14--777.php?c=809&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Latina TV
-http://bgapp.live/play/14--777.php?c=782&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14--777.php?c=888&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Lifetime.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Lifetime
-http://bgapp.live/play/14--777.php?c=152&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Liga de Campeones
-http://bgapp.live/play/14--777.php?c=890&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Liga de Campeones 2
-http://bgapp.live/play/14--777.php?c=893&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Looney Tunes 24/7
-http://bgapp.live/play/14--777.php?c=524&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los 3 Chiflados 24/7
-http://bgapp.live/play/14--777.php?c=423&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Años Maravillosos 24/7
-http://bgapp.live/play/14--777.php?c=810&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Padrinos Magicos 24/7
-http://bgapp.live/play/14--777.php?c=813&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Picapiedra 24/7
-http://bgapp.live/play/14--777.php?c=669&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Pinguinos de Madagascar 24/7
-http://bgapp.live/play/14--777.php?c=794&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Pitufos 24/7
-http://bgapp.live/play/14--777.php?c=795&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Reyes de la Colina 24/7
-http://bgapp.live/play/14--777.php?c=796&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Simpson 24/7
-http://bgapp.live/play/14--777.php?c=357&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Supersonicos 24/7
-http://bgapp.live/play/14--777.php?c=797&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Los Vengadores Unidos 24/7
-http://bgapp.live/play/14--777.php?c=818&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",m2o TV
-http://bgapp.live/play/14--777.php?c=203&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Malcolm 24/7
-http://bgapp.live/play/14--777.php?c=798&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Más chic
-http://bgapp.live/play/14--777.php?c=180&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Max Prime
-http://bgapp.live/play/14--777.php?c=730&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Max Steel 24/7
-http://bgapp.live/play/14--777.php?c=880&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="MaxUp.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Max Up
-http://bgapp.live/play/14--777.php?c=659&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="mega" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Mega
-http://bgapp.live/play/14--777.php?c=766&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="mega" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Mega
-http://bgapp.live/play/14--777.php?c=784&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Mega (ES)
-http://bgapp.live/play/14--777.php?c=352&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MegaCine
-http://bgapp.live/play/14--777.php?c=517&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Quiero.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Mi Musica
-http://bgapp.live/play/14--777.php?c=172&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Miami TV
-http://bgapp.live/play/14--777.php?c=251&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Milenio
-http://bgapp.live/play/14--777.php?c=140&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MLB Network
-http://bgapp.live/play/14--777.php?c=293&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Movie Max
-http://bgapp.live/play/14--777.php?c=678&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="M.Comedia.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Movistar Comedia
-http://bgapp.live/play/14--777.php?c=370&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Movistar Deportes
-http://bgapp.live/play/14--777.php?c=366&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="M.Deportes2.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Movistar Deportes 2
-http://bgapp.live/play/14--777.php?c=367&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="CanalPlusXtra.sp" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Movistar Xtra
-http://bgapp.live/play/14--777.php?c=372&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Mr. Bean 24/7
-http://bgapp.live/play/14--777.php?c=431&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="MTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MTV
-http://bgapp.live/play/14--777.php?c=69&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MTV (ES)
-http://bgapp.live/play/14--777.php?c=803&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="MTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MTV
-http://bgapp.live/play/14--777.php?c=828&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MTV Live
-http://bgapp.live/play/14--777.php?c=70&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MTV Sur
-http://bgapp.live/play/14--777.php?c=823&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Multimedios
-http://bgapp.live/play/14--777.php?c=155&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Multipremier.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MultiPremier
-http://bgapp.live/play/14--777.php?c=294&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Music Now
-http://bgapp.live/play/14--777.php?c=690&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MusicTop
-http://bgapp.live/play/14--777.php?c=691&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",MVS Noticias
-http://bgapp.live/play/14--777.php?c=448&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Naruto 24/7
-http://bgapp.live/play/14--777.php?c=523&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NatGeo.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nat Geo
-http://bgapp.live/play/14--777.php?c=76&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NatGeo.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nat Geo
-http://bgapp.live/play/14--777.php?c=644&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nat Geo Kids
-http://bgapp.live/play/14--777.php?c=412&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nat Geo Wild
-http://bgapp.live/play/14--777.php?c=77&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nat Geo Wild
-http://bgapp.live/play/14--777.php?c=497&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NBA.blt" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",NBA
-http://bgapp.live/play/14--777.php?c=838&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Neox.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Neox (ES)
-http://bgapp.live/play/14--777.php?c=353&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",NFL Network
-http://bgapp.live/play/14--777.php?c=204&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nick
-http://bgapp.live/play/14--777.php?c=78&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Nick2.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nick 2
-http://bgapp.live/play/14--777.php?c=646&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nick
-http://bgapp.live/play/14--777.php?c=645&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nick JR
-http://bgapp.live/play/14--777.php?c=79&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nick JR
-http://bgapp.live/play/14--777.php?c=829&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nick Toons
-http://bgapp.live/play/14--777.php?c=80&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nickelodeon
-http://bgapp.live/play/14--777.php?c=184&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Nova.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Nova (ES)
-http://bgapp.live/play/14--777.php?c=717&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",One Punch Man 24/7
-http://bgapp.live/play/14--777.php?c=661&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",ORBE 21
-http://bgapp.live/play/14--777.php?c=242&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Padre de Familia 24/7
-http://bgapp.live/play/14--777.php?c=416&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Paramount
-http://bgapp.live/play/14--777.php?c=200&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Paramount
-http://bgapp.live/play/14--777.php?c=647&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Pasiones.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Pasiones
-http://bgapp.live/play/14--777.php?c=755&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Patoaventuras 24/7
-http://bgapp.live/play/14--777.php?c=819&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Patrulla Canina 24/7
-http://bgapp.live/play/14--777.php?c=807&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Peppa Pig 24/7
-http://bgapp.live/play/14--777.php?c=787&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: América TV
-http://bgapp.live/play/14--777.php?c=304&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: Antares TV
-http://bgapp.live/play/14--777.php?c=451&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: BHTV
-http://bgapp.live/play/14--777.php?c=399&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: La Luz
-http://bgapp.live/play/14--777.php?c=338&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: Latina
-http://bgapp.live/play/14--777.php?c=317&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: Plus TV
-http://bgapp.live/play/14--777.php?c=337&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: RBC
-http://bgapp.live/play/14--777.php?c=220&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: RPP
-http://bgapp.live/play/14--777.php?c=336&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: TV Peru
-http://bgapp.live/play/14--777.php?c=306&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PERU: Willax TV
-http://bgapp.live/play/14--777.php?c=334&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Pinky y Cerebro 24/7
-http://bgapp.live/play/14--777.php?c=721&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Pocoyo 24/7
-http://bgapp.live/play/14--777.php?c=799&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Pokemon 24/7
-http://bgapp.live/play/14--777.php?c=420&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Ppv1.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 1
-http://bgapp.live/play/14--777.php?c=847&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 10
-http://bgapp.live/play/14--777.php?c=856&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 11
-http://bgapp.live/play/14--777.php?c=858&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 12
-http://bgapp.live/play/14--777.php?c=859&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 13
-http://bgapp.live/play/14--777.php?c=860&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 14
-http://bgapp.live/play/14--777.php?c=862&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 15
-http://bgapp.live/play/14--777.php?c=863&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 16
-http://bgapp.live/play/14--777.php?c=864&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 17
-http://bgapp.live/play/14--777.php?c=865&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 18
-http://bgapp.live/play/14--777.php?c=866&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 19
-http://bgapp.live/play/14--777.php?c=861&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Ppv2.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 2
-http://bgapp.live/play/14--777.php?c=848&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 20
-http://bgapp.live/play/14--777.php?c=867&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 21
-http://bgapp.live/play/14--777.php?c=868&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 22
-http://bgapp.live/play/14--777.php?c=869&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 23
-http://bgapp.live/play/14--777.php?c=870&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 24
-http://bgapp.live/play/14--777.php?c=871&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 25
-http://bgapp.live/play/14--777.php?c=873&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 26
-http://bgapp.live/play/14--777.php?c=874&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 27
-http://bgapp.live/play/14--777.php?c=876&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 28
-http://bgapp.live/play/14--777.php?c=875&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 29
-http://bgapp.live/play/14--777.php?c=872&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Ppv3.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 3
-http://bgapp.live/play/14--777.php?c=849&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 30
-http://bgapp.live/play/14--777.php?c=877&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Ppv4.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 4
-http://bgapp.live/play/14--777.php?c=850&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Ppv5.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 5
-http://bgapp.live/play/14--777.php?c=851&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 6
-http://bgapp.live/play/14--777.php?c=852&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Ppv7.br" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 7
-http://bgapp.live/play/14--777.php?c=853&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 8
-http://bgapp.live/play/14--777.php?c=854&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PPV 9
-http://bgapp.live/play/14--777.php?c=855&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Prison Break 24/7
-http://bgapp.live/play/14--777.php?c=884&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",PX TV
-http://bgapp.live/play/14--777.php?c=193&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Ranma 1/2 24/7
-http://bgapp.live/play/14--777.php?c=419&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",RCG TV Coahuila
-http://bgapp.live/play/14--777.php?c=346&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",RCN
-http://bgapp.live/play/14--777.php?c=390&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",RCN Novelas
-http://bgapp.live/play/14--777.php?c=279&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Real Madrid TV
-http://bgapp.live/play/14--777.php?c=270&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="RetroMusic.cz" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Retro Music
-http://bgapp.live/play/14--777.php?c=692&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="RitmosonLatino.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Ritmoson Latino
-http://bgapp.live/play/14--777.php?c=154&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",RT
-http://bgapp.live/play/14--777.php?c=142&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",RTP
-http://bgapp.live/play/14--777.php?c=781&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Sakura Card Captor 24/7
-http://bgapp.live/play/14--777.php?c=672&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Samurai X 24/7
-http://bgapp.live/play/14--777.php?c=663&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Scooby Doo 24/7
-http://bgapp.live/play/14--777.php?c=422&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Showtime.no" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Showtime
-http://bgapp.live/play/14--777.php?c=679&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Smallville 24/7
-http://bgapp.live/play/14--777.php?c=673&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Sony.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Sony
-http://bgapp.live/play/14--777.php?c=145&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Sony.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Sony
-http://bgapp.live/play/14--777.php?c=498&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",South Park 24/7
-http://bgapp.live/play/14--777.php?c=674&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Space.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Space
-http://bgapp.live/play/14--777.php?c=83&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Space Sur
-http://bgapp.live/play/14--777.php?c=751&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Space.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Space
-http://bgapp.live/play/14--777.php?c=499&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Spiderman 24/7
-http://bgapp.live/play/14--777.php?c=889&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="star.gr" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star
-http://bgapp.live/play/14--777.php?c=45&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Action
-http://bgapp.live/play/14--777.php?c=46&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Action
-http://bgapp.live/play/14--777.php?c=490&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="star-cinema" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Cinema
-http://bgapp.live/play/14--777.php?c=47&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Classics
-http://bgapp.live/play/14--777.php?c=48&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Comedy
-http://bgapp.live/play/14--777.php?c=150&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Fun
-http://bgapp.live/play/14--777.php?c=49&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Fun
-http://bgapp.live/play/14--777.php?c=840&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="star.gr" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star
-http://bgapp.live/play/14--777.php?c=489&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Hits
-http://bgapp.live/play/14--777.php?c=51&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Hits Sur
-http://bgapp.live/play/14--777.php?c=747&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Hits
-http://bgapp.live/play/14--777.php?c=491&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarOne.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Life
-http://bgapp.live/play/14--777.php?c=50&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarOne.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Life
-http://bgapp.live/play/14--777.php?c=652&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Series
-http://bgapp.live/play/14--777.php?c=303&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Series Sur
-http://bgapp.live/play/14--777.php?c=745&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Star Series
-http://bgapp.live/play/14--777.php?c=492&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Starz Cinema
-http://bgapp.live/play/14--777.php?c=680&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Starz Comedy
-http://bgapp.live/play/14--777.php?c=681&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarzEncoreAction.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Starz Encore Action
-http://bgapp.live/play/14--777.php?c=682&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarzEncoreBlack.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Starz Encore Black
-http://bgapp.live/play/14--777.php?c=683&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarzEncoreFamily.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Starz Encore Family
-http://bgapp.live/play/14--777.php?c=684&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StarzEast.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Starz
-http://bgapp.live/play/14--777.php?c=685&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Studio Universal
-http://bgapp.live/play/14--777.php?c=84&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Studio Universal
-http://bgapp.live/play/14--777.php?c=830&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Super Campeones 24/7
-http://bgapp.live/play/14--777.php?c=432&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",SyFy
-http://bgapp.live/play/14--777.php?c=151&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",SyFy Sur
-http://bgapp.live/play/14--777.php?c=758&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",SyFy
-http://bgapp.live/play/14--777.php?c=648&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TBS.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TBS Very Funny
-http://bgapp.live/play/14--777.php?c=171&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TBS.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TBS Very Funny
-http://bgapp.live/play/14--777.php?c=831&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TC Ecuador
-http://bgapp.live/play/14--777.php?c=885&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TCM.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TCM
-http://bgapp.live/play/14--777.php?c=85&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TeenNick.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TeenNick
-http://bgapp.live/play/14--777.php?c=882&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tele
-http://bgapp.live/play/14--777.php?c=778&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TeleAmazonas
-http://bgapp.live/play/14--777.php?c=320&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Telefe.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Telefe
-http://bgapp.live/play/14--777.php?c=771&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TeleFórmula
-http://bgapp.live/play/14--777.php?c=182&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Telehit.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Telehit
-http://bgapp.live/play/14--777.php?c=91&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Telehit.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Telehit
-http://bgapp.live/play/14--777.php?c=649&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Telemedellin
-http://bgapp.live/play/14--777.php?c=197&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Telemundo
-http://bgapp.live/play/14--777.php?c=92&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Telemundo
-http://bgapp.live/play/14--777.php?c=660&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Televicentro
-http://bgapp.live/play/14--777.php?c=776&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",The Big Bang Theory 24/7
-http://bgapp.live/play/14--777.php?c=676&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",The Walking Dead 24/7
-http://bgapp.live/play/14--777.php?c=800&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TigoSports Bolivia
-http://bgapp.live/play/14--777.php?c=764&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TigoSports Paraguay
-http://bgapp.live/play/14--777.php?c=843&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TIIN.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tiin
-http://bgapp.live/play/14--777.php?c=93&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TLC.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TLC
-http://bgapp.live/play/14--777.php?c=87&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tlnovelas
-http://bgapp.live/play/14--777.php?c=94&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tlnovelas
-http://bgapp.live/play/14--777.php?c=832&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TNT.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT
-http://bgapp.live/play/14--777.php?c=179&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT Sur
-http://bgapp.live/play/14--777.php?c=752&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TNT.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT (ES)
-http://bgapp.live/play/14--777.php?c=716&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TNT.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT
-http://bgapp.live/play/14--777.php?c=500&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT Series
-http://bgapp.live/play/14--777.php?c=90&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT Series Sur
-http://bgapp.live/play/14--777.php?c=757&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT Series
-http://bgapp.live/play/14--777.php?c=650&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TNT Sports
-http://bgapp.live/play/14--777.php?c=509&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tom y Jerry 24/7
-http://bgapp.live/play/14--777.php?c=421&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tooncast
-http://bgapp.live/play/14--777.php?c=95&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Trece.es" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Trece
-http://bgapp.live/play/14--777.php?c=774&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TrollHunters 24/7
-http://bgapp.live/play/14--777.php?c=662&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TruTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TruTV
-http://bgapp.live/play/14--777.php?c=96&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TruTV.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TruTv
-http://bgapp.live/play/14--777.php?c=501&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tu Musica
-http://bgapp.live/play/14--777.php?c=516&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TUDN
-http://bgapp.live/play/14--777.php?c=698&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TUDN (Pocos Datos)
-http://bgapp.live/play/14--777.php?c=822&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TUDN
-http://bgapp.live/play/14--777.php?c=801&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TUDN USA
-http://bgapp.live/play/14--777.php?c=86&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TUDN USA
-http://bgapp.live/play/14--777.php?c=821&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TVC Deportes
-http://bgapp.live/play/14--777.php?c=837&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TVE.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",TVE
-http://bgapp.live/play/14--777.php?c=195&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Two And a Half Men 24/7
-http://bgapp.live/play/14--777.php?c=675&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Tyc Sports
-http://bgapp.live/play/14--777.php?c=274&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",UFC Network
-http://bgapp.live/play/14--777.php?c=97&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Unicable
-http://bgapp.live/play/14--777.php?c=98&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Unicable
-http://bgapp.live/play/14--777.php?c=653&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Universal
-http://bgapp.live/play/14--777.php?c=137&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Universal
-http://bgapp.live/play/14--777.php?c=502&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Univision
-http://bgapp.live/play/14--777.php?c=99&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="UnivisionDeportesNetwork.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Univisión Deportes
-http://bgapp.live/play/14--777.php?c=373&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="UnivisionTDN.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Univisión TDN
-http://bgapp.live/play/14--777.php?c=100&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="Univisiontlnovelas.us" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Univision Tlnovelas
-http://bgapp.live/play/14--777.php?c=413&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Uno
-http://bgapp.live/play/14--777.php?c=775&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="VH1.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",VH1
-http://bgapp.live/play/14--777.php?c=101&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="VH1.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",VH1
-http://bgapp.live/play/14--777.php?c=632&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="muzikas_video" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Video Rola
-http://bgapp.live/play/14--777.php?c=359&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Videos: 1Music
-http://bgapp.live/play/14--777.php?c=433&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Videos: Company Radio TV
-http://bgapp.live/play/14--777.php?c=435&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Videos: Dream TV
-http://bgapp.live/play/14--777.php?c=439&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Virgin TV
-http://bgapp.live/play/14--777.php?c=315&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",VTV Uruaguay
-http://bgapp.live/play/14--777.php?c=708&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",VTV2 Chile
-http://bgapp.live/play/14--777.php?c=321&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Wapa PR
-http://bgapp.live/play/14--777.php?c=327&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Warner Channel
-http://bgapp.live/play/14--777.php?c=102&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Warner Channel Sur
-http://bgapp.live/play/14--777.php?c=759&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Warner Channel
-http://bgapp.live/play/14--777.php?c=503&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Win Sports
-http://bgapp.live/play/14--777.php?c=292&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Win Sports +
-http://bgapp.live/play/14--777.php?c=881&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Win Sports +
-http://bgapp.live/play/14--777.php?c=802&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Win Sports
-http://bgapp.live/play/14--777.php?c=754&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",WWE Network
-http://bgapp.live/play/14--777.php?c=276&dir=bblaccghhoosys&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista 01" user-agent="stagefright/1.2 (Linux;Android 9)",Yu-Gi-Oh! 24/7
-http://bgapp.live/play/14--777.php?c=664&dir=bblaccghhoosys&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 360p
+https://wowly.stream/hls/stream_low/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Wowly 720p
+https://wowly.stream/hls/stream_src/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",CGTN Esp
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Top Cine Latam
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=top-cine-latam&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Saber mas
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=saber-mas&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Tu Cine Latam
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=tu-cine-latam&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Flash
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=flash-1&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",El conflicto TV
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=el-conflicto-tv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Chiquilines
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=chiquilines&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Juntos
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=juntos&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Sureno
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=cine-sureno&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Cine Real
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=cine-real-latam&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Casa Comedy
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=casa-comedy&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Spanglish
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=spanglish&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Euronews N
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=euronews-spa&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Horrorfy
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=horrorfy&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",WappTV
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=wapptv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MMC
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=mmc&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Glewed TV
+https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Lista TV",Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ENERGEEK
+https://regioplay.xyz/php/SR_REGIO_526022_/energeek.php?f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ENERGEEK 2
+https://regioplay.xyz/php/SR_REGIO_526022_/energeek2.php?f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",LATINO KIDS
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ANIPLUS
+https://regioplay.xyz/php/SR_REGIO_526022_/aniplus.php?f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",DREIKO TV
+http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/dreiko.php?f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MULTIMEDIOS MTY
+http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/multimedios.php?f=.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="Lista TV",WOW TV
+https://regioplay.xyz/php/SR_REGIO_526022_/wowtv.php
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Lista TV",NET TV
+http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/nettv.php?f=.m3u8
+#EXTINF:0 tvg-id="RTespanol.nws" group-title="Lista TV",RT ESPANOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista TV",ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista TV",AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:0 tvg-id="Videorola.us" group-title="Lista TV",VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:0 tvg-id="PAKA.ar" group-title="Lista TV",PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:0 tvg-id="LA2.es" group-title="Lista TV",La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AZ CLIC HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=11&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",LAS ESTRELLAS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=17&f=.m3u8
+#EXTINF:0 tvg-id="Canal5.mx" group-title="Lista MX",CANAL 5
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=20&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista MX",AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=21&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",NU9VE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=24&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista MX",ONCE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=25&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AZTECA UNO
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=27&f=.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Lista MX",TELEFORMULA SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=32&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MEXIQUENSE TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=44&f=.m3u8
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista MX",AZ CORAZON
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=70&f=.m3u8
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="Lista MX",AZ MUNDO
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=84&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista MX",AZTECA 7 HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=317&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista MX",AZTECA 7 HD (2)
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=322&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",IMAGEN TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2298&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MULTIMEDIOS MTY
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2305&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",APREDNE TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=401&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MULTIMEDIOS CDMX
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1253&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",NU9VE HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1783&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",LAS ESTRELLAS HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1784&f=.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="Lista MX",CANAL 5 HD (2)
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1785&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista MX",ONCE HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1942&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MVS TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2149&f=.m3u8
+#EXTINF:0 tvg-id="TVC.mx" group-title="Lista MX",TVC
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2156&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CANAL 4
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2274&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CANAL 8
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2307&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEVISA PUEBLA
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2312&f=.m3u8
+#EXTINF:0 tvg-id="A+.civ" group-title="Lista MX",A+
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2316&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TVMAS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2324&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CANAL DEL CONGRESO
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2331&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MULTIMEDIOS CDMX
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2352&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",IMAGEN TV HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2606&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ACADEMIA
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2703&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Lista MX",MULTIMEDIOS HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2882&f=.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Lista MX",TOONCAST
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=108&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista MX",DISCOVERY KIDS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=109&f=.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Lista MX",NICK
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=110&f=.m3u8
+#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista MX",DISNEY XD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=111&f=.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista MX",CARTOON NETWORK
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=112&f=.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Lista MX",DISNEY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=113&f=.m3u8
+#EXTINF:0 tvg-id="Boomerang.mx" group-title="Lista MX",BOOMERANG
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=115&f=.m3u8
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Lista MX",BABY TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=116&f=.m3u8
+#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista MX",NICK JR
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=117&f=.m3u8
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista MX",DISNEY JR
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=118&f=.m3u8
+#EXTINF:0 tvg-id="Nicktoons.mx" group-title="Lista MX",NICKTOONS SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1708&f=.m3u8
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Lista MX",BABY FIRST
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1984&f=.m3u8
+#EXTINF:0 tvg-id="Nick2.ar" group-title="Lista MX",NICK 2
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2147&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",NAT GEO KIDS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2373&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",BIT ME
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2591&f=.m3u8
+#EXTINF:0 tvg-id="TBS.mx" group-title="Lista MX",TBS SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=81&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",DE PELICULA +
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=121&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",GOLDEN +
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=122&f=.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Lista MX",GOLDEN
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=123&f=.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Lista MX",GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=124&f=.m3u8
+#EXTINF:0 tvg-id="TNT.mx" group-title="Lista MX",TNT
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=126&f=.m3u8
+#EXTINF:0 tvg-id="TCM.mx" group-title="Lista MX",TCM
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=128&f=.m3u8
+#EXTINF:0 tvg-id="Space.mx" group-title="Lista MX",SPACE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=129&f=.m3u8
+#EXTINF:0 tvg-id="AMC.mx" group-title="Lista MX",AMC
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=131&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista MX",STUDIO UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=132&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista MX",I SAT
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=135&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",EUROPA CHANNEL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=136&f=.m3u8
+#EXTINF:0 tvg-id="FilmyArts.cl" group-title="Lista MX",FILMS & ARTS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=137&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista MX",FXM
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=138&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista MX",FXM SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=332&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",STAR SERIES
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=139&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MORBIDO
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=140&f=.m3u8
+#EXTINF:0 tvg-id="StarMovies.in" group-title="Lista MX",STAR MOVIES
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=146&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista MX",CINECANAL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=149&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista MX",CINEMAX
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=158&f=.m3u8
+#EXTINF:0 tvg-id="AMC.mx" group-title="Lista MX",AMC
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=328&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista MX",DE PELICULA SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=335&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",STAR ACTION
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=336&f=.m3u8
+#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Lista MX",PARAMOUNT CHANNEL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1726&f=.m3u8
+#EXTINF:0 tvg-id="star-cinema" group-title="Lista MX",STAR CINEMA SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1729&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",STAR CLASSICS SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1732&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AZ CINEMA
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1787&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEMUNDO INTERNACIONAL HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=85&f=.m3u8
+#EXTINF:0 tvg-id="star.gr" group-title="Lista MX",STAR
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=46&f=.m3u8
+#EXTINF:0 tvg-id="Sony.mx" group-title="Lista MX",SONY
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=48&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Lista MX",WARNER TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=52&f=.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Lista MX",E!
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=55&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista MX",UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=57&f=.m3u8
+#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista MX",SYFY
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=59&f=.m3u8
+#EXTINF:0 tvg-id="FX.mx" group-title="Lista MX",FX
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=60&f=.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Lista MX",A&E
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=62&f=.m3u8
+#EXTINF:0 tvg-id="AXN.mx" group-title="Lista MX",AXN
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=64&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista MX",UNICABLE SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=66&f=.m3u8
+#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Lista MX",SUNDANCE TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=69&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista MX",TNT SERIES
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=71&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista MX",GLITZ
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=76&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista MX",GOURMET
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=74&f=.m3u8
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Lista MX",STAR LIFE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=77&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Lista MX",DISTRITO COMEDIA SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=78&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.mx" group-title="Lista MX",TRUTV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=79&f=.m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista MX",TL NOVELAS SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=83&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.mx" group-title="Lista MX",LIFETIME
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=94&f=.m3u8
+#EXTINF:0 tvg-id="Antena3.mx" group-title="Lista MX",ANTENA 3
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=199&f=.m3u8
+#EXTINF:0 tvg-id="Start.tr" group-title="Lista MX",STAR HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=201&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",WARNER TV HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=205&f=.m3u8
+#EXTINF:0 tvg-id="UniversalHD.mx" group-title="Lista MX",UNIVERSAL HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=207&f=.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Lista MX",FX HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=209&f=.m3u8
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Lista MX",TRUTV HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=215&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista MX",HOLA TV HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=219&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista MX",COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=340&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista MX",COMEDY CENTRAL SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=341&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista MX",UNICABLE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1499&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista MX",MAS CHIC
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1842&f=.m3u8
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Lista MX",A3SERIES
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2113&f=.m3u8
+#EXTINF:0 tvg-id="ESPN+.mx" group-title="Lista MX",ESPN +
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=167&f=.m3u8
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Lista MX",ESPN
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=168&f=.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Lista MX",ESPN 2
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=169&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista MX",FOX SPORTS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=170&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista MX",FOX SPORTS 2
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=172&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TUDN
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=174&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Lista MX",FOX SPORTS 3
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=178&f=.m3u8
+#EXTINF:0 tvg-id="Golf.es" group-title="Lista MX",GOLF
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=179&f=.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Lista MX",AYM SPORTS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=180&f=.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Lista MX",ESPN 3
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=345&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TUDN HD (2)
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1049&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ADRENALINA SPORTS HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1799&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",LAS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2089&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",HAVOC
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2148&f=.m3u8
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Lista MX",TVC DEPORTES
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2157&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CLARO SPORTS HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2564&f=.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Lista MX",FUEL TV HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2587&f=.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista MX",DISCOVERY ID
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=68&f=.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Lista MX",GARAGE TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=75&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista MX",DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=86&f=.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista MX",ANIMAL PLANET
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=88&f=.m3u8
+#EXTINF:0 tvg-id="HistoryEurope.eu" group-title="Lista MX",HISTORY
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=89&f=.m3u8
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Lista MX",NAT GEO
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=91&f=.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista MX",NAT GEO WILD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=92&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista MX",DISCOVERY THEATER
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=95&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Lista MX",H&H
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=96&f=.m3u8
+#EXTINF:0 tvg-id="TLC.mx" group-title="Lista MX",TLC
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=97&f=.m3u8
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista MX",DISCOVERY SCIENCE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=98&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Lista MX",DISCOVERY CIVILIZATION
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=99&f=.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista MX",DISCOVERY WORLD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=101&f=.m3u8
+#EXTINF:0 tvg-id="TVE.mx" group-title="Lista MX",TVE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=198&f=.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="Lista MX",SHOPPING
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1943&f=.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Lista MX",FOOD NETWORK
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2145&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="Lista MX",STAR  TVE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2375&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista MX",DISCOVERY TURBO
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2379&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CURIOSITY STREAM
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2594&f=.m3u8
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Lista MX",MTV LIVE
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=211&f=.m3u8
+#EXTINF:0 tvg-id="MTV.mx" group-title="Lista MX",MTV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=212&f=.m3u8
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="Lista MX",MTV HITS SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=213&f=.m3u8
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Lista MX",VH1 CLASSIC SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=214&f=.m3u8
+#EXTINF:0 tvg-id="VH1.mx" group-title="Lista MX",VH1 SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=217&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEHIT URBANO SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=218&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",TELEHIT +
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=220&f=.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Lista MX",BANDAMAX SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=221&f=.m3u8
+#EXTINF:0 tvg-id="AzClic.mx" group-title="Lista MX",AZ CLIC
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=223&f=.m3u8
+#EXTINF:0 tvg-id="VH1HD.mx" group-title="Lista MX",VH1 HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=334&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",FOROTV HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=4&f=.m3u8
+#EXTINF:0 tvg-id="FOROtv.us" group-title="Lista MX",FOROTV SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=19&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ADN40
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=40&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ADN 40 HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=184&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Lista MX",CNN
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=185&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Lista MX",CNN SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=186&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",CNN Ñ SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=187&f=.m3u8
+#EXTINF:0 tvg-id="WOBITV.mx" group-title="Lista MX",WOBI
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=102&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",FOXN EWS
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=188&f=.m3u8
+#EXTINF:0 tvg-id="Bloomberg.mx" group-title="Lista MX",BLOOMBERG
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=190&f=.m3u8
+#EXTINF:0 tvg-id="bbc-world" group-title="Lista MX",BBC SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=191&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",AL JAAZERA
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=192&f=.m3u8
+#EXTINF:0 tvg-id="NTN24.us" group-title="Lista MX",NTN 24
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=194&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",JUSTICIA TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=196&f=.m3u8
+#EXTINF:0 tvg-id="HLN.us" group-title="Lista MX",HLN
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=197&f=.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Lista MX",DW
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=203&f=.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Lista MX",RT
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=999&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",MILENIO HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1250&f=.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Lista MX",MILENIO SD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1252&f=.m3u8
+#EXTINF:0 tvg-id="Cadena3.mx" group-title="Lista MX",EXCELSIOR TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1449&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",EL FINANCIERO HD
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=1649&f=.m3u8
+#EXTINF:0 tvg-id="RTespanol.nws" group-title="Lista MX",RT ESPAÑOL
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2091&f=.m3u8
+#EXTINF:0 tvg-id="France24.fr" group-title="Lista MX",FRANCE 24
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=2402&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES) 14
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=3314&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES) 15
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=3315&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES)
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=3316&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES)
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=3317&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista MX",ONCE NINOS (CLASES)
+http://regioplay.xyz/php/SR_REGIO_317022_/tpnuevo01.php?c=3318&f=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Vix",40 Y 20
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=340&pid=340&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Adrenalina Sport
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=393&pid=393&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Afizzionados
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=348&pid=348&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Alegrijes Y Rebujos
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=319&pid=319&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Amigas Y Rivales
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=320&pid=320&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Amores Verdaderos
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=305&pid=305&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Aqui Y Ahora
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=306&pid=306&f=tokeen=regio_
+#EXTINF:0 tvg-id="ATV+.pe" group-title="Vix",Atv+
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=258&pid=258&f=tokeen=regio_
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Vix",Bandamax
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=400&pid=400&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Bein Sports Xtra
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=256&pid=256&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Bitme
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=401&pid=401&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Canal 5 (Mx)
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=351&pid=351&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine 1
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=307&pid=307&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine 2
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=308&pid=308&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine 3
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=309&pid=309&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine Club - Prendetv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=192&pid=192&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cine Del Ayer
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=429&pid=429&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Clase 406
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=322&pid=322&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cnn Colombia
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=358&pid=358&f=tokeen=regio_
+#EXTINF:0 tvg-id="ComedyTV.ge" group-title="Vix",Comedy Tv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=89&pid=89&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Como Dice El Dicho
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=341&pid=341&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Corazón Salvaje
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=325&pid=325&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Crónicas
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=315&pid=315&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Cuidado Con El Angel
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=316&pid=316&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Del Mercado Al Plato
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=317&pid=317&f=tokeen=regio_
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Vix",Distrito Comedia
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=405&pid=405&f=tokeen=regio_
+#EXTINF:0 tvg-id="DePeliculaHD.mx" group-title="Vix",Dpeliculas
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=354&pid=354&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Dpeliculas +
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=404&pid=404&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Durmiendo Con Mi Jefe
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=312&pid=312&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",El Privilegio De Mandar
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=313&pid=313&f=tokeen=regio_
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Vix",Euronews
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=255&pid=255&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Failarmy
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=197&pid=197&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Familia P. Luche
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=311&pid=311&f=tokeen=regio_
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Vix",Foro Tv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=300&pid=300&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Fun Videos
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=121&pid=121&f=tokeen=regio_
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Vix",Golden Edge
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=407&pid=407&f=tokeen=regio_
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Vix",Golden Edge Sd
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=410&pid=410&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Golden Plus
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=414&pid=414&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Golden South
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=409&pid=409&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Golden South Sd
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=413&pid=413&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Héroes Del Norte
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=323&pid=323&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Juana La Virgen
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=327&pid=327&f=tokeen=regio_
+#EXTINF:0 tvg-id="Kids.br" group-title="Vix",Kids
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=355&pid=355&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",La Promesa
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=343&pid=343&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",La Rosa De Guadalupe
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=344&pid=344&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",La Selecc10n
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=345&pid=345&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Las Estrellas
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=415&pid=415&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Latidos Music
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=257&pid=257&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Level Up - Games
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=263&pid=263&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Lo Mejor De La Liga Mx - Prendetv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=193&pid=193&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Lo Que Diga El Corazon
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=346&pid=346&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Local View
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=402&pid=402&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Local View 2
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=403&pid=403&f=tokeen=regio_
+#EXTINF:0 tvg-id="LoveNature.eu" group-title="Vix",Love Nature
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=390&pid=390&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",María Mercedes
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=328&pid=328&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Media +
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=301&pid=301&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Mi Gorda Bella
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=334&pid=334&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Muchachitas
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=331&pid=331&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Muchachitas Como Tu
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=332&pid=332&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",My Time Movies
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=261&pid=261&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Noticias Univision 24/7
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=254&pid=254&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas De Oro - Prendetv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=196&pid=196&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas De Romance - Prendetv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=194&pid=194&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas En Familia - Prendetv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=195&pid=195&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Nuestra Vision
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=262&pid=262&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden
+http://linear-409&pid=409&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden
+http://linear-406&pid=406&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden Edge
+http://linear-407&pid=407&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Olden Plus
+http://linear-410&pid=410&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Papa A Toda Madre
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=336&pid=336&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",People Are Awesome
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=39&pid=39&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Que Bonito Amor
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=329&pid=329&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Rcn Mas
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=286&pid=286&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Rebelde
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=335&pid=335&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Retro Peli
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=304&pid=304&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Revry-Lgbtq Tv
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=139&pid=139&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Sortilegio
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=337&pid=337&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Soy Tu Dueña
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=318&pid=318&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Soy Tu Dueña
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=339&pid=339&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tele Musica
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=418&pid=418&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tele Musica+
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=419&pid=419&f=tokeen=regio_
+#EXTINF:0 tvg-id="Telehit.mx" group-title="Vix",Telehit
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=417&pid=417&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Teresa
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=342&pid=342&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Teresa
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=324&pid=324&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",The Weather Channel(Es)
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=431&pid=431&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",The Weather Channel(Es) Hd
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=453&pid=453&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tln Novelas
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=421&pid=421&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tn23
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=259&pid=259&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tres Veces Ana
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=321&pid=321&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Triunfo Del Amor
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=338&pid=338&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=373&pid=373&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=372&pid=372&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=376&pid=376&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=380&pid=380&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=375&pid=375&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=385&pid=385&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=386&pid=386&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=381&pid=381&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=379&pid=379&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=357&pid=357&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=347&pid=347&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=378&pid=378&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=383&pid=383&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=384&pid=384&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=377&pid=377&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=360&pid=360&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tudn
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=374&pid=374&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Tv Venta
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=352&pid=352&f=tokeen=regio_
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Vix",Unicable
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=423&pid=423&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Unknown 101
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=330&pid=330&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Unknown 262
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=446&pid=446&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Vecinos
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=314&pid=314&f=tokeen=regio_
+#EXTINF:0 tvg-id="vevo" group-title="Vix",Vevo
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=389&pid=389&f=tokeen=regio_
+#EXTINF:0 tvg-id="vevo" group-title="Vix",Vevo
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=388&pid=388&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Videos Chistosos
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=46&pid=46&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Videos Chistosos 2
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=49&pid=49&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Vivo Play
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=260&pid=260&f=tokeen=regio_
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Vix",Cine
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=449&pid=449&f=tokeen=regio_
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Vix",Cine Sd
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=450&pid=450&f=tokeen=regio_
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Vix",Cine Sd
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=451&pid=451&f=tokeen=regio_
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Vix",Deportes
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=452&pid=452&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=445&pid=445&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas Hd
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=448&pid=448&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Novelas Sd
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=447&pid=447&f=tokeen=regio_
+#EXTINF:0 tvg-id="ext" group-title="Vix",Xh Derbez - Nosotros Los Guapos
+http://regioplay.xyz/php/SR_REGIO_317022_/vix.php?c=310&pid=310&f=tokeen=regio_
