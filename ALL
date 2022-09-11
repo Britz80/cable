@@ -1,5 +1,5 @@
 #EXTM3U
-1
+
 
 #EXTINF:0 tvg-id="ext" group-title="DistroRegio",Top Cine Latam
 https://regioplay.xyz/php/SR_REGIO_019022_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
